@@ -1,0 +1,3337 @@
+fileFormatVersion: 2
+guid: ba57eecd0ae952e4ba949ca47fd1f238
+timeCreated: 1459673901
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body 1
+    100004: Body 10
+    100006: Body 100
+    100008: Body 101
+    100010: Body 102
+    100012: Body 103
+    100014: Body 104
+    100016: Body 105
+    100018: Body 106
+    100020: Body 107
+    100022: Body 108
+    100024: Body 109
+    100026: Body 11
+    100028: Body 110
+    100030: Body 111
+    100032: Body 112
+    100034: Body 113
+    100036: Body 114
+    100038: Body 115
+    100040: Body 116
+    100042: Body 117
+    100044: Body 118
+    100046: Body 119
+    100048: Body 12
+    100050: Body 120
+    100052: Body 121
+    100054: Body 122
+    100056: Body 123
+    100058: Body 124
+    100060: Body 125
+    100062: Body 126
+    100064: Body 127
+    100066: Body 128
+    100068: Body 129
+    100070: Body 13
+    100072: Body 130
+    100074: Body 131
+    100076: Body 132
+    100078: Body 133
+    100080: Body 134
+    100082: Body 135
+    100084: Body 136
+    100086: Body 137
+    100088: Body 138
+    100090: Body 139
+    100092: Body 14
+    100094: Body 140
+    100096: Body 141
+    100098: Body 142
+    100100: Body 143
+    100102: Body 144
+    100104: Body 145
+    100106: Body 146
+    100108: Body 147
+    100110: Body 148
+    100112: Body 149
+    100114: Body 15
+    100116: Body 150
+    100118: Body 151
+    100120: Body 152
+    100122: Body 153
+    100124: Body 154
+    100126: Body 16
+    100128: Body 17
+    100130: Body 18
+    100132: Body 19
+    100134: Body 2
+    100136: Body 20
+    100138: Body 21
+    100140: Body 22
+    100142: Body 23
+    100144: Body 24
+    100146: Body 25
+    100148: Body 26
+    100150: Body 27
+    100152: Body 28
+    100154: Body 29
+    100156: Body 3
+    100158: Body 30
+    100160: Body 31
+    100162: Body 32
+    100164: Body 33
+    100166: Body 34
+    100168: Body 35
+    100170: Body 36
+    100172: Body 37
+    100174: Body 38
+    100176: Body 39
+    100178: Body 4
+    100180: Body 40
+    100182: Body 41
+    100184: Body 42
+    100186: Body 43
+    100188: Body 44
+    100190: Body 45
+    100192: Body 46
+    100194: Body 47
+    100196: Body 48
+    100198: Body 49
+    100200: Body 5
+    100202: Body 50
+    100204: Body 51
+    100206: Body 52
+    100208: Body 53
+    100210: Body 54
+    100212: Body 55
+    100214: Body 56
+    100216: Body 57
+    100218: Body 58
+    100220: Body 59
+    100222: Body 6
+    100224: Body 60
+    100226: Body 61
+    100228: Body 62
+    100230: Body 63
+    100232: Body 64
+    100234: Body 65
+    100236: Body 66
+    100238: Body 67
+    100240: Body 68
+    100242: Body 69
+    100244: Body 7
+    100246: Body 70
+    100248: Body 71
+    100250: Body 72
+    100252: Body 73
+    100254: Body 74
+    100256: Body 75
+    100258: Body 76
+    100260: Body 77
+    100262: Body 78
+    100264: Body 79
+    100266: Body 8
+    100268: Body 80
+    100270: Body 81
+    100272: Body 82
+    100274: Body 83
+    100276: Body 84
+    100278: Body 85
+    100280: Body 86
+    100282: Body 87
+    100284: Body 88
+    100286: Body 89
+    100288: Body 9
+    100290: Body 90
+    100292: Body 91
+    100294: Body 92
+    100296: Body 93
+    100298: Body 94
+    100300: Body 95
+    100302: Body 96
+    100304: Body 97
+    100306: Body 98
+    100308: Body 99
+    100310: DoorPane
+    100312: DoorPane 1
+    100314: DoorPane 2
+    100316: DoorPane 3
+    100318: DoorPane 4
+    100320: DoorPane 5
+    100322: DoorPane 6
+    100324: DoorPane 7
+    100326: dp_battlement_corner_1_
+    100328: dp_battlement_corner_1_ 1
+    100330: dp_battlement_corner_1_ 10
+    100332: dp_battlement_corner_1_ 11
+    100334: dp_battlement_corner_1_ 12
+    100336: dp_battlement_corner_1_ 13
+    100338: dp_battlement_corner_1_ 14
+    100340: dp_battlement_corner_1_ 15
+    100342: dp_battlement_corner_1_ 16
+    100344: dp_battlement_corner_1_ 17
+    100346: dp_battlement_corner_1_ 18
+    100348: dp_battlement_corner_1_ 19
+    100350: dp_battlement_corner_1_ 2
+    100352: dp_battlement_corner_1_ 20
+    100354: dp_battlement_corner_1_ 21
+    100356: dp_battlement_corner_1_ 22
+    100358: dp_battlement_corner_1_ 23
+    100360: dp_battlement_corner_1_ 3
+    100362: dp_battlement_corner_1_ 4
+    100364: dp_battlement_corner_1_ 5
+    100366: dp_battlement_corner_1_ 6
+    100368: dp_battlement_corner_1_ 7
+    100370: dp_battlement_corner_1_ 8
+    100372: dp_battlement_corner_1_ 9
+    100374: dp_battlement_wall_1_
+    100376: dp_battlement_wall_1_ 1
+    100378: dp_battlement_wall_1_ 10
+    100380: dp_battlement_wall_1_ 100
+    100382: dp_battlement_wall_1_ 101
+    100384: dp_battlement_wall_1_ 102
+    100386: dp_battlement_wall_1_ 103
+    100388: dp_battlement_wall_1_ 104
+    100390: dp_battlement_wall_1_ 105
+    100392: dp_battlement_wall_1_ 106
+    100394: dp_battlement_wall_1_ 107
+    100396: dp_battlement_wall_1_ 108
+    100398: dp_battlement_wall_1_ 109
+    100400: dp_battlement_wall_1_ 11
+    100402: dp_battlement_wall_1_ 110
+    100404: dp_battlement_wall_1_ 111
+    100406: dp_battlement_wall_1_ 112
+    100408: dp_battlement_wall_1_ 113
+    100410: dp_battlement_wall_1_ 114
+    100412: dp_battlement_wall_1_ 115
+    100414: dp_battlement_wall_1_ 116
+    100416: dp_battlement_wall_1_ 117
+    100418: dp_battlement_wall_1_ 12
+    100420: dp_battlement_wall_1_ 13
+    100422: dp_battlement_wall_1_ 14
+    100424: dp_battlement_wall_1_ 15
+    100426: dp_battlement_wall_1_ 16
+    100428: dp_battlement_wall_1_ 17
+    100430: dp_battlement_wall_1_ 18
+    100432: dp_battlement_wall_1_ 19
+    100434: dp_battlement_wall_1_ 2
+    100436: dp_battlement_wall_1_ 20
+    100438: dp_battlement_wall_1_ 21
+    100440: dp_battlement_wall_1_ 22
+    100442: dp_battlement_wall_1_ 23
+    100444: dp_battlement_wall_1_ 24
+    100446: dp_battlement_wall_1_ 25
+    100448: dp_battlement_wall_1_ 26
+    100450: dp_battlement_wall_1_ 27
+    100452: dp_battlement_wall_1_ 28
+    100454: dp_battlement_wall_1_ 29
+    100456: dp_battlement_wall_1_ 3
+    100458: dp_battlement_wall_1_ 30
+    100460: dp_battlement_wall_1_ 31
+    100462: dp_battlement_wall_1_ 32
+    100464: dp_battlement_wall_1_ 33
+    100466: dp_battlement_wall_1_ 34
+    100468: dp_battlement_wall_1_ 35
+    100470: dp_battlement_wall_1_ 36
+    100472: dp_battlement_wall_1_ 37
+    100474: dp_battlement_wall_1_ 38
+    100476: dp_battlement_wall_1_ 39
+    100478: dp_battlement_wall_1_ 4
+    100480: dp_battlement_wall_1_ 40
+    100482: dp_battlement_wall_1_ 41
+    100484: dp_battlement_wall_1_ 42
+    100486: dp_battlement_wall_1_ 43
+    100488: dp_battlement_wall_1_ 44
+    100490: dp_battlement_wall_1_ 45
+    100492: dp_battlement_wall_1_ 46
+    100494: dp_battlement_wall_1_ 47
+    100496: dp_battlement_wall_1_ 48
+    100498: dp_battlement_wall_1_ 49
+    100500: dp_battlement_wall_1_ 5
+    100502: dp_battlement_wall_1_ 50
+    100504: dp_battlement_wall_1_ 51
+    100506: dp_battlement_wall_1_ 52
+    100508: dp_battlement_wall_1_ 53
+    100510: dp_battlement_wall_1_ 54
+    100512: dp_battlement_wall_1_ 55
+    100514: dp_battlement_wall_1_ 56
+    100516: dp_battlement_wall_1_ 57
+    100518: dp_battlement_wall_1_ 58
+    100520: dp_battlement_wall_1_ 59
+    100522: dp_battlement_wall_1_ 6
+    100524: dp_battlement_wall_1_ 60
+    100526: dp_battlement_wall_1_ 61
+    100528: dp_battlement_wall_1_ 62
+    100530: dp_battlement_wall_1_ 63
+    100532: dp_battlement_wall_1_ 64
+    100534: dp_battlement_wall_1_ 65
+    100536: dp_battlement_wall_1_ 66
+    100538: dp_battlement_wall_1_ 67
+    100540: dp_battlement_wall_1_ 68
+    100542: dp_battlement_wall_1_ 69
+    100544: dp_battlement_wall_1_ 7
+    100546: dp_battlement_wall_1_ 70
+    100548: dp_battlement_wall_1_ 71
+    100550: dp_battlement_wall_1_ 72
+    100552: dp_battlement_wall_1_ 73
+    100554: dp_battlement_wall_1_ 74
+    100556: dp_battlement_wall_1_ 75
+    100558: dp_battlement_wall_1_ 76
+    100560: dp_battlement_wall_1_ 77
+    100562: dp_battlement_wall_1_ 78
+    100564: dp_battlement_wall_1_ 79
+    100566: dp_battlement_wall_1_ 8
+    100568: dp_battlement_wall_1_ 80
+    100570: dp_battlement_wall_1_ 81
+    100572: dp_battlement_wall_1_ 82
+    100574: dp_battlement_wall_1_ 83
+    100576: dp_battlement_wall_1_ 84
+    100578: dp_battlement_wall_1_ 85
+    100580: dp_battlement_wall_1_ 86
+    100582: dp_battlement_wall_1_ 87
+    100584: dp_battlement_wall_1_ 88
+    100586: dp_battlement_wall_1_ 89
+    100588: dp_battlement_wall_1_ 9
+    100590: dp_battlement_wall_1_ 90
+    100592: dp_battlement_wall_1_ 91
+    100594: dp_battlement_wall_1_ 92
+    100596: dp_battlement_wall_1_ 93
+    100598: dp_battlement_wall_1_ 94
+    100600: dp_battlement_wall_1_ 95
+    100602: dp_battlement_wall_1_ 96
+    100604: dp_battlement_wall_1_ 97
+    100606: dp_battlement_wall_1_ 98
+    100608: dp_battlement_wall_1_ 99
+    100610: dp_strong_door_1_
+    100612: dp_strong_door_1_ 1
+    100614: dp_strong_door_1_ 2
+    100616: dp_strong_door_1_ 3
+    100618: dp_strong_door_1_ 4
+    100620: dp_strong_door_1_ 5
+    100622: dp_strong_door_1_ 6
+    100624: dp_strong_door_1_ 7
+    100626: External
+    100628: External_OUT
+    100630: External_OUT_Floor
+    100632: External_OUT_Wall0
+    100634: External_OUT_Wall1
+    100636: External_OUT_Wall2
+    100638: External_OUT_Wall3
+    100640: Frame
+    100642: Frame 1
+    100644: Frame 2
+    100646: Frame 3
+    100648: Frame 4
+    100650: Frame 5
+    100652: Frame 6
+    100654: Frame 7
+    100656: Glass
+    100658: Glass 1
+    100660: Glass 10
+    100662: Glass 11
+    100664: Glass 12
+    100666: Glass 2
+    100668: Glass 3
+    100670: Glass 4
+    100672: Glass 5
+    100674: Glass 6
+    100676: Glass 7
+    100678: Glass 8
+    100680: Glass 9
+    100682: Head
+    100684: Head 1
+    100686: Head 10
+    100688: Head 11
+    100690: Head 12
+    100692: Head 13
+    100694: Head 14
+    100696: Head 15
+    100698: Head 16
+    100700: Head 17
+    100702: Head 18
+    100704: Head 19
+    100706: Head 2
+    100708: Head 20
+    100710: Head 21
+    100712: Head 22
+    100714: Head 23
+    100716: Head 3
+    100718: Head 4
+    100720: Head 5
+    100722: Head 6
+    100724: Head 7
+    100726: Head 8
+    100728: Head 9
+    100730: Level0
+    100732: Level0_E1
+    100734: Level0_E1_Ceiling
+    100736: Level0_E1_Floor
+    100738: Level0_E1_Wall0
+    100740: Level0_E1_Wall1
+    100742: Level0_E1_Wall2
+    100744: Level0_E1_Wall3
+    100746: Level0_E3
+    100748: Level0_E3_Ceiling
+    100750: Level0_E3_Floor
+    100752: 'Level0_E3_L-ShapeStairs(E3->Room #1)'
+    100754: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban'
+    100756: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf'
+    100758: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p0'
+    100760: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p1'
+    100762: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p2'
+    100764: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p3'
+    100766: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p4'
+    100768: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p5'
+    100770: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p6'
+    100772: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p7'
+    100774: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p8'
+    100776: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p9'
+    100778: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_rail'
+    100780: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt'
+    100782: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p0'
+    100784: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p1'
+    100786: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p2'
+    100788: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p3'
+    100790: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p4'
+    100792: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p5'
+    100794: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p6'
+    100796: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p7'
+    100798: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p8'
+    100800: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_rail'
+    100802: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf'
+    100804: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p0'
+    100806: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p1'
+    100808: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p10'
+    100810: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p11'
+    100812: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p12'
+    100814: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p13'
+    100816: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p14'
+    100818: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p15'
+    100820: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p16'
+    100822: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p17'
+    100824: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p2'
+    100826: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p3'
+    100828: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p4'
+    100830: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p5'
+    100832: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p6'
+    100834: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p7'
+    100836: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p8'
+    100838: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p9'
+    100840: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_rail'
+    100842: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt'
+    100844: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p0'
+    100846: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p1'
+    100848: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p2'
+    100850: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_rail'
+    100852: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf'
+    100854: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p0'
+    100856: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p1'
+    100858: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p2'
+    100860: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p3'
+    100862: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p4'
+    100864: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p5'
+    100866: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p6'
+    100868: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p7'
+    100870: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_rail'
+    100872: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt'
+    100874: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p0'
+    100876: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p1'
+    100878: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p2'
+    100880: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p3'
+    100882: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p4'
+    100884: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p5'
+    100886: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p6'
+    100888: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p7'
+    100890: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_rail'
+    100892: 'Level0_E3_L-ShapeStairs(E3->Room #1)_st_up'
+    100894: Level0_E3_StraightStairs(E3->E2)
+    100896: Level0_E3_StraightStairs(E3->E2)_ban
+    100898: Level0_E3_StraightStairs(E3->E2)_ban_lf
+    100900: Level0_E3_StraightStairs(E3->E2)_ban_lf_p0
+    100902: Level0_E3_StraightStairs(E3->E2)_ban_lf_p1
+    100904: Level0_E3_StraightStairs(E3->E2)_ban_lf_p10
+    100906: Level0_E3_StraightStairs(E3->E2)_ban_lf_p11
+    100908: Level0_E3_StraightStairs(E3->E2)_ban_lf_p12
+    100910: Level0_E3_StraightStairs(E3->E2)_ban_lf_p13
+    100912: Level0_E3_StraightStairs(E3->E2)_ban_lf_p14
+    100914: Level0_E3_StraightStairs(E3->E2)_ban_lf_p15
+    100916: Level0_E3_StraightStairs(E3->E2)_ban_lf_p16
+    100918: Level0_E3_StraightStairs(E3->E2)_ban_lf_p17
+    100920: Level0_E3_StraightStairs(E3->E2)_ban_lf_p18
+    100922: Level0_E3_StraightStairs(E3->E2)_ban_lf_p2
+    100924: Level0_E3_StraightStairs(E3->E2)_ban_lf_p3
+    100926: Level0_E3_StraightStairs(E3->E2)_ban_lf_p4
+    100928: Level0_E3_StraightStairs(E3->E2)_ban_lf_p5
+    100930: Level0_E3_StraightStairs(E3->E2)_ban_lf_p6
+    100932: Level0_E3_StraightStairs(E3->E2)_ban_lf_p7
+    100934: Level0_E3_StraightStairs(E3->E2)_ban_lf_p8
+    100936: Level0_E3_StraightStairs(E3->E2)_ban_lf_p9
+    100938: Level0_E3_StraightStairs(E3->E2)_ban_lf_rail
+    100940: Level0_E3_StraightStairs(E3->E2)_ban_rt
+    100942: Level0_E3_StraightStairs(E3->E2)_ban_rt_p0
+    100944: Level0_E3_StraightStairs(E3->E2)_ban_rt_p1
+    100946: Level0_E3_StraightStairs(E3->E2)_ban_rt_p10
+    100948: Level0_E3_StraightStairs(E3->E2)_ban_rt_p11
+    100950: Level0_E3_StraightStairs(E3->E2)_ban_rt_p12
+    100952: Level0_E3_StraightStairs(E3->E2)_ban_rt_p13
+    100954: Level0_E3_StraightStairs(E3->E2)_ban_rt_p14
+    100956: Level0_E3_StraightStairs(E3->E2)_ban_rt_p15
+    100958: Level0_E3_StraightStairs(E3->E2)_ban_rt_p16
+    100960: Level0_E3_StraightStairs(E3->E2)_ban_rt_p17
+    100962: Level0_E3_StraightStairs(E3->E2)_ban_rt_p18
+    100964: Level0_E3_StraightStairs(E3->E2)_ban_rt_p2
+    100966: Level0_E3_StraightStairs(E3->E2)_ban_rt_p3
+    100968: Level0_E3_StraightStairs(E3->E2)_ban_rt_p4
+    100970: Level0_E3_StraightStairs(E3->E2)_ban_rt_p5
+    100972: Level0_E3_StraightStairs(E3->E2)_ban_rt_p6
+    100974: Level0_E3_StraightStairs(E3->E2)_ban_rt_p7
+    100976: Level0_E3_StraightStairs(E3->E2)_ban_rt_p8
+    100978: Level0_E3_StraightStairs(E3->E2)_ban_rt_p9
+    100980: Level0_E3_StraightStairs(E3->E2)_ban_rt_rail
+    100982: Level0_E3_Wall0
+    100984: Level0_E3_Wall1
+    100986: Level0_E3_Wall2
+    100988: Level0_E3_Wall3
+    100990: Level0_E4
+    100992: Level0_E4_Ceiling
+    100994: Level0_E4_Floor
+    100996: Level0_E4_Wall0
+    100998: Level0_E4_Wall1
+    101000: Level0_E4_Wall2
+    101002: Level0_E4_Wall3
+    101004: Level0_E6
+    101006: Level0_E6_Ceiling
+    101008: Level0_E6_Floor
+    101010: Level0_E6_Wall0
+    101012: Level0_E6_Wall1
+    101014: Level0_E6_Wall2
+    101016: Level0_E6_Wall3
+    101018: Level0_E7
+    101020: Level0_E7_Ceiling
+    101022: Level0_E7_Floor
+    101024: Level0_E7_Wall0
+    101026: Level0_E7_Wall1
+    101028: Level0_E7_Wall2
+    101030: Level0_E7_Wall3
+    101032: 'Level0_Room #0'
+    101034: 'Level0_Room #0_Ceiling'
+    101036: 'Level0_Room #0_Floor'
+    101038: 'Level0_Room #0_Wall0'
+    101040: 'Level0_Room #0_Wall1'
+    101042: 'Level0_Room #0_Wall2'
+    101044: 'Level0_Room #0_Wall3'
+    101046: Level1
+    101048: Level1_E2
+    101050: Level1_E2_Ceiling
+    101052: Level1_E2_Floor
+    101054: Level1_E2_StraightStairs(E2->E3)
+    101056: Level1_E2_StraightStairs(E2->E3)_ban
+    101058: Level1_E2_StraightStairs(E2->E3)_ban_hz
+    101060: Level1_E2_StraightStairs(E2->E3)_ban_hz_p0
+    101062: Level1_E2_StraightStairs(E2->E3)_ban_hz_p1
+    101064: Level1_E2_StraightStairs(E2->E3)_ban_hz_p2
+    101066: Level1_E2_StraightStairs(E2->E3)_ban_hz_p3
+    101068: Level1_E2_StraightStairs(E2->E3)_ban_hz_p4
+    101070: Level1_E2_StraightStairs(E2->E3)_ban_hz_p5
+    101072: Level1_E2_StraightStairs(E2->E3)_ban_hz_p6
+    101074: Level1_E2_StraightStairs(E2->E3)_ban_hz_p7
+    101076: Level1_E2_StraightStairs(E2->E3)_ban_hz_rail
+    101078: Level1_E2_StraightStairs(E2->E3)_ban_lf
+    101080: Level1_E2_StraightStairs(E2->E3)_ban_lf_p0
+    101082: Level1_E2_StraightStairs(E2->E3)_ban_lf_p1
+    101084: Level1_E2_StraightStairs(E2->E3)_ban_lf_p10
+    101086: Level1_E2_StraightStairs(E2->E3)_ban_lf_p11
+    101088: Level1_E2_StraightStairs(E2->E3)_ban_lf_p12
+    101090: Level1_E2_StraightStairs(E2->E3)_ban_lf_p13
+    101092: Level1_E2_StraightStairs(E2->E3)_ban_lf_p14
+    101094: Level1_E2_StraightStairs(E2->E3)_ban_lf_p15
+    101096: Level1_E2_StraightStairs(E2->E3)_ban_lf_p16
+    101098: Level1_E2_StraightStairs(E2->E3)_ban_lf_p17
+    101100: Level1_E2_StraightStairs(E2->E3)_ban_lf_p18
+    101102: Level1_E2_StraightStairs(E2->E3)_ban_lf_p19
+    101104: Level1_E2_StraightStairs(E2->E3)_ban_lf_p2
+    101106: Level1_E2_StraightStairs(E2->E3)_ban_lf_p3
+    101108: Level1_E2_StraightStairs(E2->E3)_ban_lf_p4
+    101110: Level1_E2_StraightStairs(E2->E3)_ban_lf_p5
+    101112: Level1_E2_StraightStairs(E2->E3)_ban_lf_p6
+    101114: Level1_E2_StraightStairs(E2->E3)_ban_lf_p7
+    101116: Level1_E2_StraightStairs(E2->E3)_ban_lf_p8
+    101118: Level1_E2_StraightStairs(E2->E3)_ban_lf_p9
+    101120: Level1_E2_StraightStairs(E2->E3)_ban_lf_rail
+    101122: Level1_E2_StraightStairs(E2->E3)_ban_rt
+    101124: Level1_E2_StraightStairs(E2->E3)_ban_rt_p0
+    101126: Level1_E2_StraightStairs(E2->E3)_ban_rt_p1
+    101128: Level1_E2_StraightStairs(E2->E3)_ban_rt_p10
+    101130: Level1_E2_StraightStairs(E2->E3)_ban_rt_p11
+    101132: Level1_E2_StraightStairs(E2->E3)_ban_rt_p12
+    101134: Level1_E2_StraightStairs(E2->E3)_ban_rt_p13
+    101136: Level1_E2_StraightStairs(E2->E3)_ban_rt_p14
+    101138: Level1_E2_StraightStairs(E2->E3)_ban_rt_p15
+    101140: Level1_E2_StraightStairs(E2->E3)_ban_rt_p16
+    101142: Level1_E2_StraightStairs(E2->E3)_ban_rt_p17
+    101144: Level1_E2_StraightStairs(E2->E3)_ban_rt_p18
+    101146: Level1_E2_StraightStairs(E2->E3)_ban_rt_p19
+    101148: Level1_E2_StraightStairs(E2->E3)_ban_rt_p2
+    101150: Level1_E2_StraightStairs(E2->E3)_ban_rt_p3
+    101152: Level1_E2_StraightStairs(E2->E3)_ban_rt_p4
+    101154: Level1_E2_StraightStairs(E2->E3)_ban_rt_p5
+    101156: Level1_E2_StraightStairs(E2->E3)_ban_rt_p6
+    101158: Level1_E2_StraightStairs(E2->E3)_ban_rt_p7
+    101160: Level1_E2_StraightStairs(E2->E3)_ban_rt_p8
+    101162: Level1_E2_StraightStairs(E2->E3)_ban_rt_p9
+    101164: Level1_E2_StraightStairs(E2->E3)_ban_rt_rail
+    101166: Level1_E2_Wall0
+    101168: Level1_E2_Wall1
+    101170: Level1_E2_Wall2
+    101172: Level1_E2_Wall3
+    101174: Level1_E5
+    101176: Level1_E5_Ceiling
+    101178: Level1_E5_Floor
+    101180: Level1_E5_Wall0
+    101182: Level1_E5_Wall1
+    101184: Level1_E5_Wall2
+    101186: Level1_E5_Wall3
+    101188: 'Level1_Room #1'
+    101190: 'Level1_Room #1_Ceiling'
+    101192: 'Level1_Room #1_Floor'
+    101194: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)'
+    101196: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister'
+    101198: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail'
+    101200: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p0'
+    101202: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p1'
+    101204: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p2'
+    101206: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p3'
+    101208: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p4'
+    101210: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p5'
+    101212: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p6'
+    101214: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p7'
+    101216: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p8'
+    101218: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_rail'
+    101220: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail'
+    101222: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p0'
+    101224: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p1'
+    101226: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p10'
+    101228: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p11'
+    101230: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p12'
+    101232: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p13'
+    101234: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p14'
+    101236: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p15'
+    101238: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p16'
+    101240: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p17'
+    101242: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p18'
+    101244: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p19'
+    101246: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p2'
+    101248: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p20'
+    101250: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p21'
+    101252: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p22'
+    101254: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p23'
+    101256: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p24'
+    101258: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p25'
+    101260: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p26'
+    101262: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p27'
+    101264: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p28'
+    101266: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p29'
+    101268: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p3'
+    101270: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p30'
+    101272: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p31'
+    101274: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p32'
+    101276: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p33'
+    101278: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p34'
+    101280: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p35'
+    101282: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p36'
+    101284: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p37'
+    101286: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p38'
+    101288: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p39'
+    101290: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p4'
+    101292: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p5'
+    101294: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p6'
+    101296: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p7'
+    101298: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p8'
+    101300: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p9'
+    101302: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_rail'
+    101304: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail'
+    101306: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p0'
+    101308: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p1'
+    101310: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p10'
+    101312: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p11'
+    101314: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p12'
+    101316: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p13'
+    101318: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p14'
+    101320: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p15'
+    101322: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p16'
+    101324: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p17'
+    101326: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p18'
+    101328: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p19'
+    101330: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p2'
+    101332: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p20'
+    101334: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p21'
+    101336: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p3'
+    101338: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p4'
+    101340: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p5'
+    101342: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p6'
+    101344: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p7'
+    101346: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p8'
+    101348: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p9'
+    101350: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_rail'
+    101352: 'Level1_Room #1_Wall0'
+    101354: 'Level1_Room #1_Wall1'
+    101356: 'Level1_Room #1_Wall2'
+    101358: 'Level1_Room #1_Wall3'
+    101360: //RootNode
+    101362: 'OID000000000000DA3BD46E_Roof #0'
+    101364: 'OID000000000000DA3BD46E_Roof #0_P0'
+    101366: 'OID000000000000DA3BD46E_Roof #0_P1'
+    101368: 'OID000000000000DA3BD46E_Roof #1'
+    101370: 'OID000000000000DA3BD46E_Roof #1_P0'
+    101372: 'OID000000000000DA3BD46E_Roof #1_P1'
+    101374: 'OID000000000000DA3BD46E_Roof #2'
+    101376: 'OID000000000000DA3BD46E_Roof #2_P0'
+    101378: 'OID000000000000DA3BD46E_Roof #3'
+    101380: 'OID000000000000DA3BD46E_Roof #3_P0'
+    101382: pl
+    101384: pl 1
+    101386: pl 10
+    101388: pl 100
+    101390: pl 101
+    101392: pl 102
+    101394: pl 103
+    101396: pl 104
+    101398: pl 105
+    101400: pl 106
+    101402: pl 107
+    101404: pl 108
+    101406: pl 109
+    101408: pl 11
+    101410: pl 110
+    101412: pl 111
+    101414: pl 112
+    101416: pl 113
+    101418: pl 114
+    101420: pl 115
+    101422: pl 116
+    101424: pl 117
+    101426: pl 118
+    101428: pl 119
+    101430: pl 12
+    101432: pl 120
+    101434: pl 121
+    101436: pl 122
+    101438: pl 123
+    101440: pl 124
+    101442: pl 125
+    101444: pl 126
+    101446: pl 127
+    101448: pl 128
+    101450: pl 129
+    101452: pl 13
+    101454: pl 130
+    101456: pl 131
+    101458: pl 132
+    101460: pl 133
+    101462: pl 134
+    101464: pl 135
+    101466: pl 136
+    101468: pl 137
+    101470: pl 138
+    101472: pl 139
+    101474: pl 14
+    101476: pl 140
+    101478: pl 141
+    101480: pl 15
+    101482: pl 16
+    101484: pl 17
+    101486: pl 18
+    101488: pl 19
+    101490: pl 2
+    101492: pl 20
+    101494: pl 21
+    101496: pl 22
+    101498: pl 23
+    101500: pl 24
+    101502: pl 25
+    101504: pl 26
+    101506: pl 27
+    101508: pl 28
+    101510: pl 29
+    101512: pl 3
+    101514: pl 30
+    101516: pl 31
+    101518: pl 32
+    101520: pl 33
+    101522: pl 34
+    101524: pl 35
+    101526: pl 36
+    101528: pl 37
+    101530: pl 38
+    101532: pl 39
+    101534: pl 4
+    101536: pl 40
+    101538: pl 41
+    101540: pl 42
+    101542: pl 43
+    101544: pl 44
+    101546: pl 45
+    101548: pl 46
+    101550: pl 47
+    101552: pl 48
+    101554: pl 49
+    101556: pl 5
+    101558: pl 50
+    101560: pl 51
+    101562: pl 52
+    101564: pl 53
+    101566: pl 54
+    101568: pl 55
+    101570: pl 56
+    101572: pl 57
+    101574: pl 58
+    101576: pl 59
+    101578: pl 6
+    101580: pl 60
+    101582: pl 61
+    101584: pl 62
+    101586: pl 63
+    101588: pl 64
+    101590: pl 65
+    101592: pl 66
+    101594: pl 67
+    101596: pl 68
+    101598: pl 69
+    101600: pl 7
+    101602: pl 70
+    101604: pl 71
+    101606: pl 72
+    101608: pl 73
+    101610: pl 74
+    101612: pl 75
+    101614: pl 76
+    101616: pl 77
+    101618: pl 78
+    101620: pl 79
+    101622: pl 8
+    101624: pl 80
+    101626: pl 81
+    101628: pl 82
+    101630: pl 83
+    101632: pl 84
+    101634: pl 85
+    101636: pl 86
+    101638: pl 87
+    101640: pl 88
+    101642: pl 89
+    101644: pl 9
+    101646: pl 90
+    101648: pl 91
+    101650: pl 92
+    101652: pl 93
+    101654: pl 94
+    101656: pl 95
+    101658: pl 96
+    101660: pl 97
+    101662: pl 98
+    101664: pl 99
+    101666: 'Wall0_Door(Room #1->E5)'
+    101668: Wall0_Unbrick(E4->E1)
+    101670: Wall0_Unbrick(E4->E6)
+    101672: Wall0_Window((1, 2, 0):SOUTH)
+    101674: Wall0_Window((2, 3, 1):SOUTH)
+    101676: Wall0_Window((5, 1, 0):SOUTH)
+    101678: 'Wall1_Door(E2->Room #1)'
+    101680: 'Wall1_Door(E2->Room #1) 1'
+    101682: Wall1_Door(E3->E7)
+    101684: Wall1_Door(E3->E7) 1
+    101686: Wall1_Door(E3->OUT)
+    101688: Wall1_Unbrick(E2->E5)
+    101690: 'Wall1_Unbrick(Room #0->E4)'
+    101692: Wall1_Window((5, 3, 0):EAST)
+    101694: Wall1_Window((5, 3, 1):EAST)
+    101696: Wall1_Window((6, 1, 0):EAST)
+    101698: Wall1_Window((6, 6, 0):EAST)
+    101700: 'Wall2_Door(E5->Room #1)'
+    101702: 'Wall2_Door(Room #0->OUT)'
+    101704: Wall2_Unbrick(E1->E4)
+    101706: Wall2_Unbrick(E6->E4)
+    101708: Wall2_Window((2, 7, 0):NORTH)
+    101710: Wall2_Window((3, 6, 1):NORTH)
+    101712: Wall3_Door(E7->E3)
+    101714: 'Wall3_Door(Room #1->E2)'
+    101716: 'Wall3_Unbrick(E4->Room #0)'
+    101718: Wall3_Unbrick(E5->E2)
+    101720: Wall3_Window((1, 2, 0):WEST)
+    101722: Wall3_Window((2, 3, 1):WEST)
+    101724: Wall3_Window((2, 6, 0):WEST)
+    101726: Wall3_Window((5, 1, 0):WEST)
+    101728: wp_triangle_window_1_
+    101730: wp_triangle_window_1_ 1
+    101732: wp_triangle_window_1_ 10
+    101734: wp_triangle_window_1_ 11
+    101736: wp_triangle_window_1_ 12
+    101738: wp_triangle_window_1_ 2
+    101740: wp_triangle_window_1_ 3
+    101742: wp_triangle_window_1_ 4
+    101744: wp_triangle_window_1_ 5
+    101746: wp_triangle_window_1_ 6
+    101748: wp_triangle_window_1_ 7
+    101750: wp_triangle_window_1_ 8
+    101752: wp_triangle_window_1_ 9
+    400000: Body
+    400002: Body 1
+    400004: Body 10
+    400006: Body 100
+    400008: Body 101
+    400010: Body 102
+    400012: Body 103
+    400014: Body 104
+    400016: Body 105
+    400018: Body 106
+    400020: Body 107
+    400022: Body 108
+    400024: Body 109
+    400026: Body 11
+    400028: Body 110
+    400030: Body 111
+    400032: Body 112
+    400034: Body 113
+    400036: Body 114
+    400038: Body 115
+    400040: Body 116
+    400042: Body 117
+    400044: Body 118
+    400046: Body 119
+    400048: Body 12
+    400050: Body 120
+    400052: Body 121
+    400054: Body 122
+    400056: Body 123
+    400058: Body 124
+    400060: Body 125
+    400062: Body 126
+    400064: Body 127
+    400066: Body 128
+    400068: Body 129
+    400070: Body 13
+    400072: Body 130
+    400074: Body 131
+    400076: Body 132
+    400078: Body 133
+    400080: Body 134
+    400082: Body 135
+    400084: Body 136
+    400086: Body 137
+    400088: Body 138
+    400090: Body 139
+    400092: Body 14
+    400094: Body 140
+    400096: Body 141
+    400098: Body 142
+    400100: Body 143
+    400102: Body 144
+    400104: Body 145
+    400106: Body 146
+    400108: Body 147
+    400110: Body 148
+    400112: Body 149
+    400114: Body 15
+    400116: Body 150
+    400118: Body 151
+    400120: Body 152
+    400122: Body 153
+    400124: Body 154
+    400126: Body 16
+    400128: Body 17
+    400130: Body 18
+    400132: Body 19
+    400134: Body 2
+    400136: Body 20
+    400138: Body 21
+    400140: Body 22
+    400142: Body 23
+    400144: Body 24
+    400146: Body 25
+    400148: Body 26
+    400150: Body 27
+    400152: Body 28
+    400154: Body 29
+    400156: Body 3
+    400158: Body 30
+    400160: Body 31
+    400162: Body 32
+    400164: Body 33
+    400166: Body 34
+    400168: Body 35
+    400170: Body 36
+    400172: Body 37
+    400174: Body 38
+    400176: Body 39
+    400178: Body 4
+    400180: Body 40
+    400182: Body 41
+    400184: Body 42
+    400186: Body 43
+    400188: Body 44
+    400190: Body 45
+    400192: Body 46
+    400194: Body 47
+    400196: Body 48
+    400198: Body 49
+    400200: Body 5
+    400202: Body 50
+    400204: Body 51
+    400206: Body 52
+    400208: Body 53
+    400210: Body 54
+    400212: Body 55
+    400214: Body 56
+    400216: Body 57
+    400218: Body 58
+    400220: Body 59
+    400222: Body 6
+    400224: Body 60
+    400226: Body 61
+    400228: Body 62
+    400230: Body 63
+    400232: Body 64
+    400234: Body 65
+    400236: Body 66
+    400238: Body 67
+    400240: Body 68
+    400242: Body 69
+    400244: Body 7
+    400246: Body 70
+    400248: Body 71
+    400250: Body 72
+    400252: Body 73
+    400254: Body 74
+    400256: Body 75
+    400258: Body 76
+    400260: Body 77
+    400262: Body 78
+    400264: Body 79
+    400266: Body 8
+    400268: Body 80
+    400270: Body 81
+    400272: Body 82
+    400274: Body 83
+    400276: Body 84
+    400278: Body 85
+    400280: Body 86
+    400282: Body 87
+    400284: Body 88
+    400286: Body 89
+    400288: Body 9
+    400290: Body 90
+    400292: Body 91
+    400294: Body 92
+    400296: Body 93
+    400298: Body 94
+    400300: Body 95
+    400302: Body 96
+    400304: Body 97
+    400306: Body 98
+    400308: Body 99
+    400310: DoorPane
+    400312: DoorPane 1
+    400314: DoorPane 2
+    400316: DoorPane 3
+    400318: DoorPane 4
+    400320: DoorPane 5
+    400322: DoorPane 6
+    400324: DoorPane 7
+    400326: dp_battlement_corner_1_
+    400328: dp_battlement_corner_1_ 1
+    400330: dp_battlement_corner_1_ 10
+    400332: dp_battlement_corner_1_ 11
+    400334: dp_battlement_corner_1_ 12
+    400336: dp_battlement_corner_1_ 13
+    400338: dp_battlement_corner_1_ 14
+    400340: dp_battlement_corner_1_ 15
+    400342: dp_battlement_corner_1_ 16
+    400344: dp_battlement_corner_1_ 17
+    400346: dp_battlement_corner_1_ 18
+    400348: dp_battlement_corner_1_ 19
+    400350: dp_battlement_corner_1_ 2
+    400352: dp_battlement_corner_1_ 20
+    400354: dp_battlement_corner_1_ 21
+    400356: dp_battlement_corner_1_ 22
+    400358: dp_battlement_corner_1_ 23
+    400360: dp_battlement_corner_1_ 3
+    400362: dp_battlement_corner_1_ 4
+    400364: dp_battlement_corner_1_ 5
+    400366: dp_battlement_corner_1_ 6
+    400368: dp_battlement_corner_1_ 7
+    400370: dp_battlement_corner_1_ 8
+    400372: dp_battlement_corner_1_ 9
+    400374: dp_battlement_wall_1_
+    400376: dp_battlement_wall_1_ 1
+    400378: dp_battlement_wall_1_ 10
+    400380: dp_battlement_wall_1_ 100
+    400382: dp_battlement_wall_1_ 101
+    400384: dp_battlement_wall_1_ 102
+    400386: dp_battlement_wall_1_ 103
+    400388: dp_battlement_wall_1_ 104
+    400390: dp_battlement_wall_1_ 105
+    400392: dp_battlement_wall_1_ 106
+    400394: dp_battlement_wall_1_ 107
+    400396: dp_battlement_wall_1_ 108
+    400398: dp_battlement_wall_1_ 109
+    400400: dp_battlement_wall_1_ 11
+    400402: dp_battlement_wall_1_ 110
+    400404: dp_battlement_wall_1_ 111
+    400406: dp_battlement_wall_1_ 112
+    400408: dp_battlement_wall_1_ 113
+    400410: dp_battlement_wall_1_ 114
+    400412: dp_battlement_wall_1_ 115
+    400414: dp_battlement_wall_1_ 116
+    400416: dp_battlement_wall_1_ 117
+    400418: dp_battlement_wall_1_ 12
+    400420: dp_battlement_wall_1_ 13
+    400422: dp_battlement_wall_1_ 14
+    400424: dp_battlement_wall_1_ 15
+    400426: dp_battlement_wall_1_ 16
+    400428: dp_battlement_wall_1_ 17
+    400430: dp_battlement_wall_1_ 18
+    400432: dp_battlement_wall_1_ 19
+    400434: dp_battlement_wall_1_ 2
+    400436: dp_battlement_wall_1_ 20
+    400438: dp_battlement_wall_1_ 21
+    400440: dp_battlement_wall_1_ 22
+    400442: dp_battlement_wall_1_ 23
+    400444: dp_battlement_wall_1_ 24
+    400446: dp_battlement_wall_1_ 25
+    400448: dp_battlement_wall_1_ 26
+    400450: dp_battlement_wall_1_ 27
+    400452: dp_battlement_wall_1_ 28
+    400454: dp_battlement_wall_1_ 29
+    400456: dp_battlement_wall_1_ 3
+    400458: dp_battlement_wall_1_ 30
+    400460: dp_battlement_wall_1_ 31
+    400462: dp_battlement_wall_1_ 32
+    400464: dp_battlement_wall_1_ 33
+    400466: dp_battlement_wall_1_ 34
+    400468: dp_battlement_wall_1_ 35
+    400470: dp_battlement_wall_1_ 36
+    400472: dp_battlement_wall_1_ 37
+    400474: dp_battlement_wall_1_ 38
+    400476: dp_battlement_wall_1_ 39
+    400478: dp_battlement_wall_1_ 4
+    400480: dp_battlement_wall_1_ 40
+    400482: dp_battlement_wall_1_ 41
+    400484: dp_battlement_wall_1_ 42
+    400486: dp_battlement_wall_1_ 43
+    400488: dp_battlement_wall_1_ 44
+    400490: dp_battlement_wall_1_ 45
+    400492: dp_battlement_wall_1_ 46
+    400494: dp_battlement_wall_1_ 47
+    400496: dp_battlement_wall_1_ 48
+    400498: dp_battlement_wall_1_ 49
+    400500: dp_battlement_wall_1_ 5
+    400502: dp_battlement_wall_1_ 50
+    400504: dp_battlement_wall_1_ 51
+    400506: dp_battlement_wall_1_ 52
+    400508: dp_battlement_wall_1_ 53
+    400510: dp_battlement_wall_1_ 54
+    400512: dp_battlement_wall_1_ 55
+    400514: dp_battlement_wall_1_ 56
+    400516: dp_battlement_wall_1_ 57
+    400518: dp_battlement_wall_1_ 58
+    400520: dp_battlement_wall_1_ 59
+    400522: dp_battlement_wall_1_ 6
+    400524: dp_battlement_wall_1_ 60
+    400526: dp_battlement_wall_1_ 61
+    400528: dp_battlement_wall_1_ 62
+    400530: dp_battlement_wall_1_ 63
+    400532: dp_battlement_wall_1_ 64
+    400534: dp_battlement_wall_1_ 65
+    400536: dp_battlement_wall_1_ 66
+    400538: dp_battlement_wall_1_ 67
+    400540: dp_battlement_wall_1_ 68
+    400542: dp_battlement_wall_1_ 69
+    400544: dp_battlement_wall_1_ 7
+    400546: dp_battlement_wall_1_ 70
+    400548: dp_battlement_wall_1_ 71
+    400550: dp_battlement_wall_1_ 72
+    400552: dp_battlement_wall_1_ 73
+    400554: dp_battlement_wall_1_ 74
+    400556: dp_battlement_wall_1_ 75
+    400558: dp_battlement_wall_1_ 76
+    400560: dp_battlement_wall_1_ 77
+    400562: dp_battlement_wall_1_ 78
+    400564: dp_battlement_wall_1_ 79
+    400566: dp_battlement_wall_1_ 8
+    400568: dp_battlement_wall_1_ 80
+    400570: dp_battlement_wall_1_ 81
+    400572: dp_battlement_wall_1_ 82
+    400574: dp_battlement_wall_1_ 83
+    400576: dp_battlement_wall_1_ 84
+    400578: dp_battlement_wall_1_ 85
+    400580: dp_battlement_wall_1_ 86
+    400582: dp_battlement_wall_1_ 87
+    400584: dp_battlement_wall_1_ 88
+    400586: dp_battlement_wall_1_ 89
+    400588: dp_battlement_wall_1_ 9
+    400590: dp_battlement_wall_1_ 90
+    400592: dp_battlement_wall_1_ 91
+    400594: dp_battlement_wall_1_ 92
+    400596: dp_battlement_wall_1_ 93
+    400598: dp_battlement_wall_1_ 94
+    400600: dp_battlement_wall_1_ 95
+    400602: dp_battlement_wall_1_ 96
+    400604: dp_battlement_wall_1_ 97
+    400606: dp_battlement_wall_1_ 98
+    400608: dp_battlement_wall_1_ 99
+    400610: dp_strong_door_1_
+    400612: dp_strong_door_1_ 1
+    400614: dp_strong_door_1_ 2
+    400616: dp_strong_door_1_ 3
+    400618: dp_strong_door_1_ 4
+    400620: dp_strong_door_1_ 5
+    400622: dp_strong_door_1_ 6
+    400624: dp_strong_door_1_ 7
+    400626: External
+    400628: External_OUT
+    400630: External_OUT_Floor
+    400632: External_OUT_Wall0
+    400634: External_OUT_Wall1
+    400636: External_OUT_Wall2
+    400638: External_OUT_Wall3
+    400640: Frame
+    400642: Frame 1
+    400644: Frame 2
+    400646: Frame 3
+    400648: Frame 4
+    400650: Frame 5
+    400652: Frame 6
+    400654: Frame 7
+    400656: Glass
+    400658: Glass 1
+    400660: Glass 10
+    400662: Glass 11
+    400664: Glass 12
+    400666: Glass 2
+    400668: Glass 3
+    400670: Glass 4
+    400672: Glass 5
+    400674: Glass 6
+    400676: Glass 7
+    400678: Glass 8
+    400680: Glass 9
+    400682: Head
+    400684: Head 1
+    400686: Head 10
+    400688: Head 11
+    400690: Head 12
+    400692: Head 13
+    400694: Head 14
+    400696: Head 15
+    400698: Head 16
+    400700: Head 17
+    400702: Head 18
+    400704: Head 19
+    400706: Head 2
+    400708: Head 20
+    400710: Head 21
+    400712: Head 22
+    400714: Head 23
+    400716: Head 3
+    400718: Head 4
+    400720: Head 5
+    400722: Head 6
+    400724: Head 7
+    400726: Head 8
+    400728: Head 9
+    400730: Level0
+    400732: Level0_E1
+    400734: Level0_E1_Ceiling
+    400736: Level0_E1_Floor
+    400738: Level0_E1_Wall0
+    400740: Level0_E1_Wall1
+    400742: Level0_E1_Wall2
+    400744: Level0_E1_Wall3
+    400746: Level0_E3
+    400748: Level0_E3_Ceiling
+    400750: Level0_E3_Floor
+    400752: 'Level0_E3_L-ShapeStairs(E3->Room #1)'
+    400754: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban'
+    400756: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf'
+    400758: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p0'
+    400760: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p1'
+    400762: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p2'
+    400764: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p3'
+    400766: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p4'
+    400768: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p5'
+    400770: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p6'
+    400772: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p7'
+    400774: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p8'
+    400776: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p9'
+    400778: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_rail'
+    400780: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt'
+    400782: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p0'
+    400784: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p1'
+    400786: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p2'
+    400788: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p3'
+    400790: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p4'
+    400792: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p5'
+    400794: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p6'
+    400796: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p7'
+    400798: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p8'
+    400800: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_rail'
+    400802: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf'
+    400804: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p0'
+    400806: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p1'
+    400808: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p10'
+    400810: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p11'
+    400812: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p12'
+    400814: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p13'
+    400816: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p14'
+    400818: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p15'
+    400820: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p16'
+    400822: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p17'
+    400824: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p2'
+    400826: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p3'
+    400828: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p4'
+    400830: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p5'
+    400832: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p6'
+    400834: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p7'
+    400836: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p8'
+    400838: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p9'
+    400840: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_rail'
+    400842: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt'
+    400844: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p0'
+    400846: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p1'
+    400848: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p2'
+    400850: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_rail'
+    400852: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf'
+    400854: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p0'
+    400856: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p1'
+    400858: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p2'
+    400860: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p3'
+    400862: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p4'
+    400864: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p5'
+    400866: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p6'
+    400868: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p7'
+    400870: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_rail'
+    400872: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt'
+    400874: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p0'
+    400876: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p1'
+    400878: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p2'
+    400880: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p3'
+    400882: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p4'
+    400884: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p5'
+    400886: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p6'
+    400888: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p7'
+    400890: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_rail'
+    400892: 'Level0_E3_L-ShapeStairs(E3->Room #1)_st_up'
+    400894: Level0_E3_StraightStairs(E3->E2)
+    400896: Level0_E3_StraightStairs(E3->E2)_ban
+    400898: Level0_E3_StraightStairs(E3->E2)_ban_lf
+    400900: Level0_E3_StraightStairs(E3->E2)_ban_lf_p0
+    400902: Level0_E3_StraightStairs(E3->E2)_ban_lf_p1
+    400904: Level0_E3_StraightStairs(E3->E2)_ban_lf_p10
+    400906: Level0_E3_StraightStairs(E3->E2)_ban_lf_p11
+    400908: Level0_E3_StraightStairs(E3->E2)_ban_lf_p12
+    400910: Level0_E3_StraightStairs(E3->E2)_ban_lf_p13
+    400912: Level0_E3_StraightStairs(E3->E2)_ban_lf_p14
+    400914: Level0_E3_StraightStairs(E3->E2)_ban_lf_p15
+    400916: Level0_E3_StraightStairs(E3->E2)_ban_lf_p16
+    400918: Level0_E3_StraightStairs(E3->E2)_ban_lf_p17
+    400920: Level0_E3_StraightStairs(E3->E2)_ban_lf_p18
+    400922: Level0_E3_StraightStairs(E3->E2)_ban_lf_p2
+    400924: Level0_E3_StraightStairs(E3->E2)_ban_lf_p3
+    400926: Level0_E3_StraightStairs(E3->E2)_ban_lf_p4
+    400928: Level0_E3_StraightStairs(E3->E2)_ban_lf_p5
+    400930: Level0_E3_StraightStairs(E3->E2)_ban_lf_p6
+    400932: Level0_E3_StraightStairs(E3->E2)_ban_lf_p7
+    400934: Level0_E3_StraightStairs(E3->E2)_ban_lf_p8
+    400936: Level0_E3_StraightStairs(E3->E2)_ban_lf_p9
+    400938: Level0_E3_StraightStairs(E3->E2)_ban_lf_rail
+    400940: Level0_E3_StraightStairs(E3->E2)_ban_rt
+    400942: Level0_E3_StraightStairs(E3->E2)_ban_rt_p0
+    400944: Level0_E3_StraightStairs(E3->E2)_ban_rt_p1
+    400946: Level0_E3_StraightStairs(E3->E2)_ban_rt_p10
+    400948: Level0_E3_StraightStairs(E3->E2)_ban_rt_p11
+    400950: Level0_E3_StraightStairs(E3->E2)_ban_rt_p12
+    400952: Level0_E3_StraightStairs(E3->E2)_ban_rt_p13
+    400954: Level0_E3_StraightStairs(E3->E2)_ban_rt_p14
+    400956: Level0_E3_StraightStairs(E3->E2)_ban_rt_p15
+    400958: Level0_E3_StraightStairs(E3->E2)_ban_rt_p16
+    400960: Level0_E3_StraightStairs(E3->E2)_ban_rt_p17
+    400962: Level0_E3_StraightStairs(E3->E2)_ban_rt_p18
+    400964: Level0_E3_StraightStairs(E3->E2)_ban_rt_p2
+    400966: Level0_E3_StraightStairs(E3->E2)_ban_rt_p3
+    400968: Level0_E3_StraightStairs(E3->E2)_ban_rt_p4
+    400970: Level0_E3_StraightStairs(E3->E2)_ban_rt_p5
+    400972: Level0_E3_StraightStairs(E3->E2)_ban_rt_p6
+    400974: Level0_E3_StraightStairs(E3->E2)_ban_rt_p7
+    400976: Level0_E3_StraightStairs(E3->E2)_ban_rt_p8
+    400978: Level0_E3_StraightStairs(E3->E2)_ban_rt_p9
+    400980: Level0_E3_StraightStairs(E3->E2)_ban_rt_rail
+    400982: Level0_E3_Wall0
+    400984: Level0_E3_Wall1
+    400986: Level0_E3_Wall2
+    400988: Level0_E3_Wall3
+    400990: Level0_E4
+    400992: Level0_E4_Ceiling
+    400994: Level0_E4_Floor
+    400996: Level0_E4_Wall0
+    400998: Level0_E4_Wall1
+    401000: Level0_E4_Wall2
+    401002: Level0_E4_Wall3
+    401004: Level0_E6
+    401006: Level0_E6_Ceiling
+    401008: Level0_E6_Floor
+    401010: Level0_E6_Wall0
+    401012: Level0_E6_Wall1
+    401014: Level0_E6_Wall2
+    401016: Level0_E6_Wall3
+    401018: Level0_E7
+    401020: Level0_E7_Ceiling
+    401022: Level0_E7_Floor
+    401024: Level0_E7_Wall0
+    401026: Level0_E7_Wall1
+    401028: Level0_E7_Wall2
+    401030: Level0_E7_Wall3
+    401032: 'Level0_Room #0'
+    401034: 'Level0_Room #0_Ceiling'
+    401036: 'Level0_Room #0_Floor'
+    401038: 'Level0_Room #0_Wall0'
+    401040: 'Level0_Room #0_Wall1'
+    401042: 'Level0_Room #0_Wall2'
+    401044: 'Level0_Room #0_Wall3'
+    401046: Level1
+    401048: Level1_E2
+    401050: Level1_E2_Ceiling
+    401052: Level1_E2_Floor
+    401054: Level1_E2_StraightStairs(E2->E3)
+    401056: Level1_E2_StraightStairs(E2->E3)_ban
+    401058: Level1_E2_StraightStairs(E2->E3)_ban_hz
+    401060: Level1_E2_StraightStairs(E2->E3)_ban_hz_p0
+    401062: Level1_E2_StraightStairs(E2->E3)_ban_hz_p1
+    401064: Level1_E2_StraightStairs(E2->E3)_ban_hz_p2
+    401066: Level1_E2_StraightStairs(E2->E3)_ban_hz_p3
+    401068: Level1_E2_StraightStairs(E2->E3)_ban_hz_p4
+    401070: Level1_E2_StraightStairs(E2->E3)_ban_hz_p5
+    401072: Level1_E2_StraightStairs(E2->E3)_ban_hz_p6
+    401074: Level1_E2_StraightStairs(E2->E3)_ban_hz_p7
+    401076: Level1_E2_StraightStairs(E2->E3)_ban_hz_rail
+    401078: Level1_E2_StraightStairs(E2->E3)_ban_lf
+    401080: Level1_E2_StraightStairs(E2->E3)_ban_lf_p0
+    401082: Level1_E2_StraightStairs(E2->E3)_ban_lf_p1
+    401084: Level1_E2_StraightStairs(E2->E3)_ban_lf_p10
+    401086: Level1_E2_StraightStairs(E2->E3)_ban_lf_p11
+    401088: Level1_E2_StraightStairs(E2->E3)_ban_lf_p12
+    401090: Level1_E2_StraightStairs(E2->E3)_ban_lf_p13
+    401092: Level1_E2_StraightStairs(E2->E3)_ban_lf_p14
+    401094: Level1_E2_StraightStairs(E2->E3)_ban_lf_p15
+    401096: Level1_E2_StraightStairs(E2->E3)_ban_lf_p16
+    401098: Level1_E2_StraightStairs(E2->E3)_ban_lf_p17
+    401100: Level1_E2_StraightStairs(E2->E3)_ban_lf_p18
+    401102: Level1_E2_StraightStairs(E2->E3)_ban_lf_p19
+    401104: Level1_E2_StraightStairs(E2->E3)_ban_lf_p2
+    401106: Level1_E2_StraightStairs(E2->E3)_ban_lf_p3
+    401108: Level1_E2_StraightStairs(E2->E3)_ban_lf_p4
+    401110: Level1_E2_StraightStairs(E2->E3)_ban_lf_p5
+    401112: Level1_E2_StraightStairs(E2->E3)_ban_lf_p6
+    401114: Level1_E2_StraightStairs(E2->E3)_ban_lf_p7
+    401116: Level1_E2_StraightStairs(E2->E3)_ban_lf_p8
+    401118: Level1_E2_StraightStairs(E2->E3)_ban_lf_p9
+    401120: Level1_E2_StraightStairs(E2->E3)_ban_lf_rail
+    401122: Level1_E2_StraightStairs(E2->E3)_ban_rt
+    401124: Level1_E2_StraightStairs(E2->E3)_ban_rt_p0
+    401126: Level1_E2_StraightStairs(E2->E3)_ban_rt_p1
+    401128: Level1_E2_StraightStairs(E2->E3)_ban_rt_p10
+    401130: Level1_E2_StraightStairs(E2->E3)_ban_rt_p11
+    401132: Level1_E2_StraightStairs(E2->E3)_ban_rt_p12
+    401134: Level1_E2_StraightStairs(E2->E3)_ban_rt_p13
+    401136: Level1_E2_StraightStairs(E2->E3)_ban_rt_p14
+    401138: Level1_E2_StraightStairs(E2->E3)_ban_rt_p15
+    401140: Level1_E2_StraightStairs(E2->E3)_ban_rt_p16
+    401142: Level1_E2_StraightStairs(E2->E3)_ban_rt_p17
+    401144: Level1_E2_StraightStairs(E2->E3)_ban_rt_p18
+    401146: Level1_E2_StraightStairs(E2->E3)_ban_rt_p19
+    401148: Level1_E2_StraightStairs(E2->E3)_ban_rt_p2
+    401150: Level1_E2_StraightStairs(E2->E3)_ban_rt_p3
+    401152: Level1_E2_StraightStairs(E2->E3)_ban_rt_p4
+    401154: Level1_E2_StraightStairs(E2->E3)_ban_rt_p5
+    401156: Level1_E2_StraightStairs(E2->E3)_ban_rt_p6
+    401158: Level1_E2_StraightStairs(E2->E3)_ban_rt_p7
+    401160: Level1_E2_StraightStairs(E2->E3)_ban_rt_p8
+    401162: Level1_E2_StraightStairs(E2->E3)_ban_rt_p9
+    401164: Level1_E2_StraightStairs(E2->E3)_ban_rt_rail
+    401166: Level1_E2_Wall0
+    401168: Level1_E2_Wall1
+    401170: Level1_E2_Wall2
+    401172: Level1_E2_Wall3
+    401174: Level1_E5
+    401176: Level1_E5_Ceiling
+    401178: Level1_E5_Floor
+    401180: Level1_E5_Wall0
+    401182: Level1_E5_Wall1
+    401184: Level1_E5_Wall2
+    401186: Level1_E5_Wall3
+    401188: 'Level1_Room #1'
+    401190: 'Level1_Room #1_Ceiling'
+    401192: 'Level1_Room #1_Floor'
+    401194: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)'
+    401196: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister'
+    401198: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail'
+    401200: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p0'
+    401202: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p1'
+    401204: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p2'
+    401206: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p3'
+    401208: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p4'
+    401210: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p5'
+    401212: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p6'
+    401214: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p7'
+    401216: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p8'
+    401218: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_rail'
+    401220: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail'
+    401222: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p0'
+    401224: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p1'
+    401226: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p10'
+    401228: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p11'
+    401230: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p12'
+    401232: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p13'
+    401234: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p14'
+    401236: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p15'
+    401238: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p16'
+    401240: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p17'
+    401242: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p18'
+    401244: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p19'
+    401246: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p2'
+    401248: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p20'
+    401250: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p21'
+    401252: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p22'
+    401254: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p23'
+    401256: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p24'
+    401258: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p25'
+    401260: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p26'
+    401262: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p27'
+    401264: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p28'
+    401266: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p29'
+    401268: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p3'
+    401270: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p30'
+    401272: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p31'
+    401274: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p32'
+    401276: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p33'
+    401278: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p34'
+    401280: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p35'
+    401282: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p36'
+    401284: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p37'
+    401286: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p38'
+    401288: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p39'
+    401290: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p4'
+    401292: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p5'
+    401294: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p6'
+    401296: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p7'
+    401298: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p8'
+    401300: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p9'
+    401302: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_rail'
+    401304: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail'
+    401306: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p0'
+    401308: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p1'
+    401310: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p10'
+    401312: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p11'
+    401314: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p12'
+    401316: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p13'
+    401318: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p14'
+    401320: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p15'
+    401322: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p16'
+    401324: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p17'
+    401326: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p18'
+    401328: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p19'
+    401330: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p2'
+    401332: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p20'
+    401334: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p21'
+    401336: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p3'
+    401338: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p4'
+    401340: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p5'
+    401342: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p6'
+    401344: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p7'
+    401346: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p8'
+    401348: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p9'
+    401350: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_rail'
+    401352: 'Level1_Room #1_Wall0'
+    401354: 'Level1_Room #1_Wall1'
+    401356: 'Level1_Room #1_Wall2'
+    401358: 'Level1_Room #1_Wall3'
+    401360: //RootNode
+    401362: 'OID000000000000DA3BD46E_Roof #0'
+    401364: 'OID000000000000DA3BD46E_Roof #0_P0'
+    401366: 'OID000000000000DA3BD46E_Roof #0_P1'
+    401368: 'OID000000000000DA3BD46E_Roof #1'
+    401370: 'OID000000000000DA3BD46E_Roof #1_P0'
+    401372: 'OID000000000000DA3BD46E_Roof #1_P1'
+    401374: 'OID000000000000DA3BD46E_Roof #2'
+    401376: 'OID000000000000DA3BD46E_Roof #2_P0'
+    401378: 'OID000000000000DA3BD46E_Roof #3'
+    401380: 'OID000000000000DA3BD46E_Roof #3_P0'
+    401382: pl
+    401384: pl 1
+    401386: pl 10
+    401388: pl 100
+    401390: pl 101
+    401392: pl 102
+    401394: pl 103
+    401396: pl 104
+    401398: pl 105
+    401400: pl 106
+    401402: pl 107
+    401404: pl 108
+    401406: pl 109
+    401408: pl 11
+    401410: pl 110
+    401412: pl 111
+    401414: pl 112
+    401416: pl 113
+    401418: pl 114
+    401420: pl 115
+    401422: pl 116
+    401424: pl 117
+    401426: pl 118
+    401428: pl 119
+    401430: pl 12
+    401432: pl 120
+    401434: pl 121
+    401436: pl 122
+    401438: pl 123
+    401440: pl 124
+    401442: pl 125
+    401444: pl 126
+    401446: pl 127
+    401448: pl 128
+    401450: pl 129
+    401452: pl 13
+    401454: pl 130
+    401456: pl 131
+    401458: pl 132
+    401460: pl 133
+    401462: pl 134
+    401464: pl 135
+    401466: pl 136
+    401468: pl 137
+    401470: pl 138
+    401472: pl 139
+    401474: pl 14
+    401476: pl 140
+    401478: pl 141
+    401480: pl 15
+    401482: pl 16
+    401484: pl 17
+    401486: pl 18
+    401488: pl 19
+    401490: pl 2
+    401492: pl 20
+    401494: pl 21
+    401496: pl 22
+    401498: pl 23
+    401500: pl 24
+    401502: pl 25
+    401504: pl 26
+    401506: pl 27
+    401508: pl 28
+    401510: pl 29
+    401512: pl 3
+    401514: pl 30
+    401516: pl 31
+    401518: pl 32
+    401520: pl 33
+    401522: pl 34
+    401524: pl 35
+    401526: pl 36
+    401528: pl 37
+    401530: pl 38
+    401532: pl 39
+    401534: pl 4
+    401536: pl 40
+    401538: pl 41
+    401540: pl 42
+    401542: pl 43
+    401544: pl 44
+    401546: pl 45
+    401548: pl 46
+    401550: pl 47
+    401552: pl 48
+    401554: pl 49
+    401556: pl 5
+    401558: pl 50
+    401560: pl 51
+    401562: pl 52
+    401564: pl 53
+    401566: pl 54
+    401568: pl 55
+    401570: pl 56
+    401572: pl 57
+    401574: pl 58
+    401576: pl 59
+    401578: pl 6
+    401580: pl 60
+    401582: pl 61
+    401584: pl 62
+    401586: pl 63
+    401588: pl 64
+    401590: pl 65
+    401592: pl 66
+    401594: pl 67
+    401596: pl 68
+    401598: pl 69
+    401600: pl 7
+    401602: pl 70
+    401604: pl 71
+    401606: pl 72
+    401608: pl 73
+    401610: pl 74
+    401612: pl 75
+    401614: pl 76
+    401616: pl 77
+    401618: pl 78
+    401620: pl 79
+    401622: pl 8
+    401624: pl 80
+    401626: pl 81
+    401628: pl 82
+    401630: pl 83
+    401632: pl 84
+    401634: pl 85
+    401636: pl 86
+    401638: pl 87
+    401640: pl 88
+    401642: pl 89
+    401644: pl 9
+    401646: pl 90
+    401648: pl 91
+    401650: pl 92
+    401652: pl 93
+    401654: pl 94
+    401656: pl 95
+    401658: pl 96
+    401660: pl 97
+    401662: pl 98
+    401664: pl 99
+    401666: 'Wall0_Door(Room #1->E5)'
+    401668: Wall0_Unbrick(E4->E1)
+    401670: Wall0_Unbrick(E4->E6)
+    401672: Wall0_Window((1, 2, 0):SOUTH)
+    401674: Wall0_Window((2, 3, 1):SOUTH)
+    401676: Wall0_Window((5, 1, 0):SOUTH)
+    401678: 'Wall1_Door(E2->Room #1)'
+    401680: 'Wall1_Door(E2->Room #1) 1'
+    401682: Wall1_Door(E3->E7)
+    401684: Wall1_Door(E3->E7) 1
+    401686: Wall1_Door(E3->OUT)
+    401688: Wall1_Unbrick(E2->E5)
+    401690: 'Wall1_Unbrick(Room #0->E4)'
+    401692: Wall1_Window((5, 3, 0):EAST)
+    401694: Wall1_Window((5, 3, 1):EAST)
+    401696: Wall1_Window((6, 1, 0):EAST)
+    401698: Wall1_Window((6, 6, 0):EAST)
+    401700: 'Wall2_Door(E5->Room #1)'
+    401702: 'Wall2_Door(Room #0->OUT)'
+    401704: Wall2_Unbrick(E1->E4)
+    401706: Wall2_Unbrick(E6->E4)
+    401708: Wall2_Window((2, 7, 0):NORTH)
+    401710: Wall2_Window((3, 6, 1):NORTH)
+    401712: Wall3_Door(E7->E3)
+    401714: 'Wall3_Door(Room #1->E2)'
+    401716: 'Wall3_Unbrick(E4->Room #0)'
+    401718: Wall3_Unbrick(E5->E2)
+    401720: Wall3_Window((1, 2, 0):WEST)
+    401722: Wall3_Window((2, 3, 1):WEST)
+    401724: Wall3_Window((2, 6, 0):WEST)
+    401726: Wall3_Window((5, 1, 0):WEST)
+    401728: wp_triangle_window_1_
+    401730: wp_triangle_window_1_ 1
+    401732: wp_triangle_window_1_ 10
+    401734: wp_triangle_window_1_ 11
+    401736: wp_triangle_window_1_ 12
+    401738: wp_triangle_window_1_ 2
+    401740: wp_triangle_window_1_ 3
+    401742: wp_triangle_window_1_ 4
+    401744: wp_triangle_window_1_ 5
+    401746: wp_triangle_window_1_ 6
+    401748: wp_triangle_window_1_ 7
+    401750: wp_triangle_window_1_ 8
+    401752: wp_triangle_window_1_ 9
+    2300000: Body
+    2300002: Body 1
+    2300004: Body 10
+    2300006: Body 100
+    2300008: Body 101
+    2300010: Body 102
+    2300012: Body 103
+    2300014: Body 104
+    2300016: Body 105
+    2300018: Body 106
+    2300020: Body 107
+    2300022: Body 108
+    2300024: Body 109
+    2300026: Body 11
+    2300028: Body 110
+    2300030: Body 111
+    2300032: Body 112
+    2300034: Body 113
+    2300036: Body 114
+    2300038: Body 115
+    2300040: Body 116
+    2300042: Body 117
+    2300044: Body 118
+    2300046: Body 119
+    2300048: Body 12
+    2300050: Body 120
+    2300052: Body 121
+    2300054: Body 122
+    2300056: Body 123
+    2300058: Body 124
+    2300060: Body 125
+    2300062: Body 126
+    2300064: Body 127
+    2300066: Body 128
+    2300068: Body 129
+    2300070: Body 13
+    2300072: Body 130
+    2300074: Body 131
+    2300076: Body 132
+    2300078: Body 133
+    2300080: Body 134
+    2300082: Body 135
+    2300084: Body 136
+    2300086: Body 137
+    2300088: Body 138
+    2300090: Body 139
+    2300092: Body 14
+    2300094: Body 140
+    2300096: Body 141
+    2300098: Body 142
+    2300100: Body 143
+    2300102: Body 144
+    2300104: Body 145
+    2300106: Body 146
+    2300108: Body 147
+    2300110: Body 148
+    2300112: Body 149
+    2300114: Body 15
+    2300116: Body 150
+    2300118: Body 151
+    2300120: Body 152
+    2300122: Body 153
+    2300124: Body 154
+    2300126: Body 16
+    2300128: Body 17
+    2300130: Body 18
+    2300132: Body 19
+    2300134: Body 2
+    2300136: Body 20
+    2300138: Body 21
+    2300140: Body 22
+    2300142: Body 23
+    2300144: Body 24
+    2300146: Body 25
+    2300148: Body 26
+    2300150: Body 27
+    2300152: Body 28
+    2300154: Body 29
+    2300156: Body 3
+    2300158: Body 30
+    2300160: Body 31
+    2300162: Body 32
+    2300164: Body 33
+    2300166: Body 34
+    2300168: Body 35
+    2300170: Body 36
+    2300172: Body 37
+    2300174: Body 38
+    2300176: Body 39
+    2300178: Body 4
+    2300180: Body 40
+    2300182: Body 41
+    2300184: Body 42
+    2300186: Body 43
+    2300188: Body 44
+    2300190: Body 45
+    2300192: Body 46
+    2300194: Body 47
+    2300196: Body 48
+    2300198: Body 49
+    2300200: Body 5
+    2300202: Body 50
+    2300204: Body 51
+    2300206: Body 52
+    2300208: Body 53
+    2300210: Body 54
+    2300212: Body 55
+    2300214: Body 56
+    2300216: Body 57
+    2300218: Body 58
+    2300220: Body 59
+    2300222: Body 6
+    2300224: Body 60
+    2300226: Body 61
+    2300228: Body 62
+    2300230: Body 63
+    2300232: Body 64
+    2300234: Body 65
+    2300236: Body 66
+    2300238: Body 67
+    2300240: Body 68
+    2300242: Body 69
+    2300244: Body 7
+    2300246: Body 70
+    2300248: Body 71
+    2300250: Body 72
+    2300252: Body 73
+    2300254: Body 74
+    2300256: Body 75
+    2300258: Body 76
+    2300260: Body 77
+    2300262: Body 78
+    2300264: Body 79
+    2300266: Body 8
+    2300268: Body 80
+    2300270: Body 81
+    2300272: Body 82
+    2300274: Body 83
+    2300276: Body 84
+    2300278: Body 85
+    2300280: Body 86
+    2300282: Body 87
+    2300284: Body 88
+    2300286: Body 89
+    2300288: Body 9
+    2300290: Body 90
+    2300292: Body 91
+    2300294: Body 92
+    2300296: Body 93
+    2300298: Body 94
+    2300300: Body 95
+    2300302: Body 96
+    2300304: Body 97
+    2300306: Body 98
+    2300308: Body 99
+    2300310: DoorPane
+    2300312: DoorPane 1
+    2300314: DoorPane 2
+    2300316: DoorPane 3
+    2300318: DoorPane 4
+    2300320: DoorPane 5
+    2300322: DoorPane 6
+    2300324: DoorPane 7
+    2300326: External_OUT_Floor
+    2300328: External_OUT_Wall0
+    2300330: External_OUT_Wall1
+    2300332: External_OUT_Wall2
+    2300334: External_OUT_Wall3
+    2300336: Frame
+    2300338: Frame 1
+    2300340: Frame 2
+    2300342: Frame 3
+    2300344: Frame 4
+    2300346: Frame 5
+    2300348: Frame 6
+    2300350: Frame 7
+    2300352: Glass
+    2300354: Glass 1
+    2300356: Glass 10
+    2300358: Glass 11
+    2300360: Glass 12
+    2300362: Glass 2
+    2300364: Glass 3
+    2300366: Glass 4
+    2300368: Glass 5
+    2300370: Glass 6
+    2300372: Glass 7
+    2300374: Glass 8
+    2300376: Glass 9
+    2300378: Head
+    2300380: Head 1
+    2300382: Head 10
+    2300384: Head 11
+    2300386: Head 12
+    2300388: Head 13
+    2300390: Head 14
+    2300392: Head 15
+    2300394: Head 16
+    2300396: Head 17
+    2300398: Head 18
+    2300400: Head 19
+    2300402: Head 2
+    2300404: Head 20
+    2300406: Head 21
+    2300408: Head 22
+    2300410: Head 23
+    2300412: Head 3
+    2300414: Head 4
+    2300416: Head 5
+    2300418: Head 6
+    2300420: Head 7
+    2300422: Head 8
+    2300424: Head 9
+    2300426: Level0_E1_Ceiling
+    2300428: Level0_E1_Floor
+    2300430: Level0_E1_Wall0
+    2300432: Level0_E1_Wall1
+    2300434: Level0_E1_Wall2
+    2300436: Level0_E1_Wall3
+    2300438: Level0_E3_Ceiling
+    2300440: Level0_E3_Floor
+    2300442: 'Level0_E3_L-ShapeStairs(E3->Room #1)'
+    2300444: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p0'
+    2300446: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p1'
+    2300448: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p2'
+    2300450: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p3'
+    2300452: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p4'
+    2300454: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p5'
+    2300456: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p6'
+    2300458: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p7'
+    2300460: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p8'
+    2300462: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p9'
+    2300464: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_rail'
+    2300466: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p0'
+    2300468: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p1'
+    2300470: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p2'
+    2300472: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p3'
+    2300474: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p4'
+    2300476: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p5'
+    2300478: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p6'
+    2300480: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p7'
+    2300482: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p8'
+    2300484: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_rail'
+    2300486: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p0'
+    2300488: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p1'
+    2300490: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p10'
+    2300492: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p11'
+    2300494: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p12'
+    2300496: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p13'
+    2300498: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p14'
+    2300500: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p15'
+    2300502: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p16'
+    2300504: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p17'
+    2300506: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p2'
+    2300508: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p3'
+    2300510: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p4'
+    2300512: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p5'
+    2300514: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p6'
+    2300516: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p7'
+    2300518: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p8'
+    2300520: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p9'
+    2300522: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_rail'
+    2300524: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p0'
+    2300526: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p1'
+    2300528: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p2'
+    2300530: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_rail'
+    2300532: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p0'
+    2300534: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p1'
+    2300536: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p2'
+    2300538: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p3'
+    2300540: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p4'
+    2300542: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p5'
+    2300544: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p6'
+    2300546: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p7'
+    2300548: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_rail'
+    2300550: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p0'
+    2300552: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p1'
+    2300554: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p2'
+    2300556: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p3'
+    2300558: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p4'
+    2300560: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p5'
+    2300562: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p6'
+    2300564: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p7'
+    2300566: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_rail'
+    2300568: Level0_E3_StraightStairs(E3->E2)
+    2300570: Level0_E3_StraightStairs(E3->E2)_ban_lf_p0
+    2300572: Level0_E3_StraightStairs(E3->E2)_ban_lf_p1
+    2300574: Level0_E3_StraightStairs(E3->E2)_ban_lf_p10
+    2300576: Level0_E3_StraightStairs(E3->E2)_ban_lf_p11
+    2300578: Level0_E3_StraightStairs(E3->E2)_ban_lf_p12
+    2300580: Level0_E3_StraightStairs(E3->E2)_ban_lf_p13
+    2300582: Level0_E3_StraightStairs(E3->E2)_ban_lf_p14
+    2300584: Level0_E3_StraightStairs(E3->E2)_ban_lf_p15
+    2300586: Level0_E3_StraightStairs(E3->E2)_ban_lf_p16
+    2300588: Level0_E3_StraightStairs(E3->E2)_ban_lf_p17
+    2300590: Level0_E3_StraightStairs(E3->E2)_ban_lf_p18
+    2300592: Level0_E3_StraightStairs(E3->E2)_ban_lf_p2
+    2300594: Level0_E3_StraightStairs(E3->E2)_ban_lf_p3
+    2300596: Level0_E3_StraightStairs(E3->E2)_ban_lf_p4
+    2300598: Level0_E3_StraightStairs(E3->E2)_ban_lf_p5
+    2300600: Level0_E3_StraightStairs(E3->E2)_ban_lf_p6
+    2300602: Level0_E3_StraightStairs(E3->E2)_ban_lf_p7
+    2300604: Level0_E3_StraightStairs(E3->E2)_ban_lf_p8
+    2300606: Level0_E3_StraightStairs(E3->E2)_ban_lf_p9
+    2300608: Level0_E3_StraightStairs(E3->E2)_ban_lf_rail
+    2300610: Level0_E3_StraightStairs(E3->E2)_ban_rt_p0
+    2300612: Level0_E3_StraightStairs(E3->E2)_ban_rt_p1
+    2300614: Level0_E3_StraightStairs(E3->E2)_ban_rt_p10
+    2300616: Level0_E3_StraightStairs(E3->E2)_ban_rt_p11
+    2300618: Level0_E3_StraightStairs(E3->E2)_ban_rt_p12
+    2300620: Level0_E3_StraightStairs(E3->E2)_ban_rt_p13
+    2300622: Level0_E3_StraightStairs(E3->E2)_ban_rt_p14
+    2300624: Level0_E3_StraightStairs(E3->E2)_ban_rt_p15
+    2300626: Level0_E3_StraightStairs(E3->E2)_ban_rt_p16
+    2300628: Level0_E3_StraightStairs(E3->E2)_ban_rt_p17
+    2300630: Level0_E3_StraightStairs(E3->E2)_ban_rt_p18
+    2300632: Level0_E3_StraightStairs(E3->E2)_ban_rt_p2
+    2300634: Level0_E3_StraightStairs(E3->E2)_ban_rt_p3
+    2300636: Level0_E3_StraightStairs(E3->E2)_ban_rt_p4
+    2300638: Level0_E3_StraightStairs(E3->E2)_ban_rt_p5
+    2300640: Level0_E3_StraightStairs(E3->E2)_ban_rt_p6
+    2300642: Level0_E3_StraightStairs(E3->E2)_ban_rt_p7
+    2300644: Level0_E3_StraightStairs(E3->E2)_ban_rt_p8
+    2300646: Level0_E3_StraightStairs(E3->E2)_ban_rt_p9
+    2300648: Level0_E3_StraightStairs(E3->E2)_ban_rt_rail
+    2300650: Level0_E3_Wall0
+    2300652: Level0_E3_Wall1
+    2300654: Level0_E3_Wall2
+    2300656: Level0_E3_Wall3
+    2300658: Level0_E4_Ceiling
+    2300660: Level0_E4_Floor
+    2300662: Level0_E4_Wall0
+    2300664: Level0_E4_Wall1
+    2300666: Level0_E4_Wall2
+    2300668: Level0_E4_Wall3
+    2300670: Level0_E6_Ceiling
+    2300672: Level0_E6_Floor
+    2300674: Level0_E6_Wall0
+    2300676: Level0_E6_Wall1
+    2300678: Level0_E6_Wall2
+    2300680: Level0_E6_Wall3
+    2300682: Level0_E7_Ceiling
+    2300684: Level0_E7_Floor
+    2300686: Level0_E7_Wall0
+    2300688: Level0_E7_Wall1
+    2300690: Level0_E7_Wall2
+    2300692: Level0_E7_Wall3
+    2300694: 'Level0_Room #0_Ceiling'
+    2300696: 'Level0_Room #0_Floor'
+    2300698: 'Level0_Room #0_Wall0'
+    2300700: 'Level0_Room #0_Wall1'
+    2300702: 'Level0_Room #0_Wall2'
+    2300704: 'Level0_Room #0_Wall3'
+    2300706: Level1_E2_Ceiling
+    2300708: Level1_E2_Floor
+    2300710: Level1_E2_StraightStairs(E2->E3)
+    2300712: Level1_E2_StraightStairs(E2->E3)_ban_hz_p0
+    2300714: Level1_E2_StraightStairs(E2->E3)_ban_hz_p1
+    2300716: Level1_E2_StraightStairs(E2->E3)_ban_hz_p2
+    2300718: Level1_E2_StraightStairs(E2->E3)_ban_hz_p3
+    2300720: Level1_E2_StraightStairs(E2->E3)_ban_hz_p4
+    2300722: Level1_E2_StraightStairs(E2->E3)_ban_hz_p5
+    2300724: Level1_E2_StraightStairs(E2->E3)_ban_hz_p6
+    2300726: Level1_E2_StraightStairs(E2->E3)_ban_hz_p7
+    2300728: Level1_E2_StraightStairs(E2->E3)_ban_hz_rail
+    2300730: Level1_E2_StraightStairs(E2->E3)_ban_lf_p0
+    2300732: Level1_E2_StraightStairs(E2->E3)_ban_lf_p1
+    2300734: Level1_E2_StraightStairs(E2->E3)_ban_lf_p10
+    2300736: Level1_E2_StraightStairs(E2->E3)_ban_lf_p11
+    2300738: Level1_E2_StraightStairs(E2->E3)_ban_lf_p12
+    2300740: Level1_E2_StraightStairs(E2->E3)_ban_lf_p13
+    2300742: Level1_E2_StraightStairs(E2->E3)_ban_lf_p14
+    2300744: Level1_E2_StraightStairs(E2->E3)_ban_lf_p15
+    2300746: Level1_E2_StraightStairs(E2->E3)_ban_lf_p16
+    2300748: Level1_E2_StraightStairs(E2->E3)_ban_lf_p17
+    2300750: Level1_E2_StraightStairs(E2->E3)_ban_lf_p18
+    2300752: Level1_E2_StraightStairs(E2->E3)_ban_lf_p19
+    2300754: Level1_E2_StraightStairs(E2->E3)_ban_lf_p2
+    2300756: Level1_E2_StraightStairs(E2->E3)_ban_lf_p3
+    2300758: Level1_E2_StraightStairs(E2->E3)_ban_lf_p4
+    2300760: Level1_E2_StraightStairs(E2->E3)_ban_lf_p5
+    2300762: Level1_E2_StraightStairs(E2->E3)_ban_lf_p6
+    2300764: Level1_E2_StraightStairs(E2->E3)_ban_lf_p7
+    2300766: Level1_E2_StraightStairs(E2->E3)_ban_lf_p8
+    2300768: Level1_E2_StraightStairs(E2->E3)_ban_lf_p9
+    2300770: Level1_E2_StraightStairs(E2->E3)_ban_lf_rail
+    2300772: Level1_E2_StraightStairs(E2->E3)_ban_rt_p0
+    2300774: Level1_E2_StraightStairs(E2->E3)_ban_rt_p1
+    2300776: Level1_E2_StraightStairs(E2->E3)_ban_rt_p10
+    2300778: Level1_E2_StraightStairs(E2->E3)_ban_rt_p11
+    2300780: Level1_E2_StraightStairs(E2->E3)_ban_rt_p12
+    2300782: Level1_E2_StraightStairs(E2->E3)_ban_rt_p13
+    2300784: Level1_E2_StraightStairs(E2->E3)_ban_rt_p14
+    2300786: Level1_E2_StraightStairs(E2->E3)_ban_rt_p15
+    2300788: Level1_E2_StraightStairs(E2->E3)_ban_rt_p16
+    2300790: Level1_E2_StraightStairs(E2->E3)_ban_rt_p17
+    2300792: Level1_E2_StraightStairs(E2->E3)_ban_rt_p18
+    2300794: Level1_E2_StraightStairs(E2->E3)_ban_rt_p19
+    2300796: Level1_E2_StraightStairs(E2->E3)_ban_rt_p2
+    2300798: Level1_E2_StraightStairs(E2->E3)_ban_rt_p3
+    2300800: Level1_E2_StraightStairs(E2->E3)_ban_rt_p4
+    2300802: Level1_E2_StraightStairs(E2->E3)_ban_rt_p5
+    2300804: Level1_E2_StraightStairs(E2->E3)_ban_rt_p6
+    2300806: Level1_E2_StraightStairs(E2->E3)_ban_rt_p7
+    2300808: Level1_E2_StraightStairs(E2->E3)_ban_rt_p8
+    2300810: Level1_E2_StraightStairs(E2->E3)_ban_rt_p9
+    2300812: Level1_E2_StraightStairs(E2->E3)_ban_rt_rail
+    2300814: Level1_E2_Wall0
+    2300816: Level1_E2_Wall1
+    2300818: Level1_E2_Wall2
+    2300820: Level1_E2_Wall3
+    2300822: Level1_E5_Ceiling
+    2300824: Level1_E5_Floor
+    2300826: Level1_E5_Wall0
+    2300828: Level1_E5_Wall1
+    2300830: Level1_E5_Wall2
+    2300832: Level1_E5_Wall3
+    2300834: 'Level1_Room #1_Ceiling'
+    2300836: 'Level1_Room #1_Floor'
+    2300838: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)'
+    2300840: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p0'
+    2300842: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p1'
+    2300844: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p2'
+    2300846: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p3'
+    2300848: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p4'
+    2300850: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p5'
+    2300852: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p6'
+    2300854: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p7'
+    2300856: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p8'
+    2300858: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_rail'
+    2300860: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p0'
+    2300862: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p1'
+    2300864: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p10'
+    2300866: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p11'
+    2300868: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p12'
+    2300870: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p13'
+    2300872: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p14'
+    2300874: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p15'
+    2300876: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p16'
+    2300878: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p17'
+    2300880: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p18'
+    2300882: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p19'
+    2300884: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p2'
+    2300886: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p20'
+    2300888: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p21'
+    2300890: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p22'
+    2300892: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p23'
+    2300894: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p24'
+    2300896: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p25'
+    2300898: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p26'
+    2300900: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p27'
+    2300902: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p28'
+    2300904: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p29'
+    2300906: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p3'
+    2300908: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p30'
+    2300910: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p31'
+    2300912: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p32'
+    2300914: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p33'
+    2300916: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p34'
+    2300918: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p35'
+    2300920: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p36'
+    2300922: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p37'
+    2300924: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p38'
+    2300926: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p39'
+    2300928: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p4'
+    2300930: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p5'
+    2300932: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p6'
+    2300934: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p7'
+    2300936: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p8'
+    2300938: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p9'
+    2300940: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_rail'
+    2300942: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p0'
+    2300944: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p1'
+    2300946: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p10'
+    2300948: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p11'
+    2300950: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p12'
+    2300952: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p13'
+    2300954: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p14'
+    2300956: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p15'
+    2300958: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p16'
+    2300960: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p17'
+    2300962: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p18'
+    2300964: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p19'
+    2300966: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p2'
+    2300968: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p20'
+    2300970: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p21'
+    2300972: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p3'
+    2300974: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p4'
+    2300976: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p5'
+    2300978: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p6'
+    2300980: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p7'
+    2300982: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p8'
+    2300984: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p9'
+    2300986: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_rail'
+    2300988: 'Level1_Room #1_Wall0'
+    2300990: 'Level1_Room #1_Wall1'
+    2300992: 'Level1_Room #1_Wall2'
+    2300994: 'Level1_Room #1_Wall3'
+    2300996: 'OID000000000000DA3BD46E_Roof #0_P0'
+    2300998: 'OID000000000000DA3BD46E_Roof #0_P1'
+    2301000: 'OID000000000000DA3BD46E_Roof #1_P0'
+    2301002: 'OID000000000000DA3BD46E_Roof #1_P1'
+    2301004: 'OID000000000000DA3BD46E_Roof #2_P0'
+    2301006: 'OID000000000000DA3BD46E_Roof #3_P0'
+    3300000: Body
+    3300002: Body 1
+    3300004: Body 10
+    3300006: Body 100
+    3300008: Body 101
+    3300010: Body 102
+    3300012: Body 103
+    3300014: Body 104
+    3300016: Body 105
+    3300018: Body 106
+    3300020: Body 107
+    3300022: Body 108
+    3300024: Body 109
+    3300026: Body 11
+    3300028: Body 110
+    3300030: Body 111
+    3300032: Body 112
+    3300034: Body 113
+    3300036: Body 114
+    3300038: Body 115
+    3300040: Body 116
+    3300042: Body 117
+    3300044: Body 118
+    3300046: Body 119
+    3300048: Body 12
+    3300050: Body 120
+    3300052: Body 121
+    3300054: Body 122
+    3300056: Body 123
+    3300058: Body 124
+    3300060: Body 125
+    3300062: Body 126
+    3300064: Body 127
+    3300066: Body 128
+    3300068: Body 129
+    3300070: Body 13
+    3300072: Body 130
+    3300074: Body 131
+    3300076: Body 132
+    3300078: Body 133
+    3300080: Body 134
+    3300082: Body 135
+    3300084: Body 136
+    3300086: Body 137
+    3300088: Body 138
+    3300090: Body 139
+    3300092: Body 14
+    3300094: Body 140
+    3300096: Body 141
+    3300098: Body 142
+    3300100: Body 143
+    3300102: Body 144
+    3300104: Body 145
+    3300106: Body 146
+    3300108: Body 147
+    3300110: Body 148
+    3300112: Body 149
+    3300114: Body 15
+    3300116: Body 150
+    3300118: Body 151
+    3300120: Body 152
+    3300122: Body 153
+    3300124: Body 154
+    3300126: Body 16
+    3300128: Body 17
+    3300130: Body 18
+    3300132: Body 19
+    3300134: Body 2
+    3300136: Body 20
+    3300138: Body 21
+    3300140: Body 22
+    3300142: Body 23
+    3300144: Body 24
+    3300146: Body 25
+    3300148: Body 26
+    3300150: Body 27
+    3300152: Body 28
+    3300154: Body 29
+    3300156: Body 3
+    3300158: Body 30
+    3300160: Body 31
+    3300162: Body 32
+    3300164: Body 33
+    3300166: Body 34
+    3300168: Body 35
+    3300170: Body 36
+    3300172: Body 37
+    3300174: Body 38
+    3300176: Body 39
+    3300178: Body 4
+    3300180: Body 40
+    3300182: Body 41
+    3300184: Body 42
+    3300186: Body 43
+    3300188: Body 44
+    3300190: Body 45
+    3300192: Body 46
+    3300194: Body 47
+    3300196: Body 48
+    3300198: Body 49
+    3300200: Body 5
+    3300202: Body 50
+    3300204: Body 51
+    3300206: Body 52
+    3300208: Body 53
+    3300210: Body 54
+    3300212: Body 55
+    3300214: Body 56
+    3300216: Body 57
+    3300218: Body 58
+    3300220: Body 59
+    3300222: Body 6
+    3300224: Body 60
+    3300226: Body 61
+    3300228: Body 62
+    3300230: Body 63
+    3300232: Body 64
+    3300234: Body 65
+    3300236: Body 66
+    3300238: Body 67
+    3300240: Body 68
+    3300242: Body 69
+    3300244: Body 7
+    3300246: Body 70
+    3300248: Body 71
+    3300250: Body 72
+    3300252: Body 73
+    3300254: Body 74
+    3300256: Body 75
+    3300258: Body 76
+    3300260: Body 77
+    3300262: Body 78
+    3300264: Body 79
+    3300266: Body 8
+    3300268: Body 80
+    3300270: Body 81
+    3300272: Body 82
+    3300274: Body 83
+    3300276: Body 84
+    3300278: Body 85
+    3300280: Body 86
+    3300282: Body 87
+    3300284: Body 88
+    3300286: Body 89
+    3300288: Body 9
+    3300290: Body 90
+    3300292: Body 91
+    3300294: Body 92
+    3300296: Body 93
+    3300298: Body 94
+    3300300: Body 95
+    3300302: Body 96
+    3300304: Body 97
+    3300306: Body 98
+    3300308: Body 99
+    3300310: DoorPane
+    3300312: DoorPane 1
+    3300314: DoorPane 2
+    3300316: DoorPane 3
+    3300318: DoorPane 4
+    3300320: DoorPane 5
+    3300322: DoorPane 6
+    3300324: DoorPane 7
+    3300326: External_OUT_Floor
+    3300328: External_OUT_Wall0
+    3300330: External_OUT_Wall1
+    3300332: External_OUT_Wall2
+    3300334: External_OUT_Wall3
+    3300336: Frame
+    3300338: Frame 1
+    3300340: Frame 2
+    3300342: Frame 3
+    3300344: Frame 4
+    3300346: Frame 5
+    3300348: Frame 6
+    3300350: Frame 7
+    3300352: Glass
+    3300354: Glass 1
+    3300356: Glass 10
+    3300358: Glass 11
+    3300360: Glass 12
+    3300362: Glass 2
+    3300364: Glass 3
+    3300366: Glass 4
+    3300368: Glass 5
+    3300370: Glass 6
+    3300372: Glass 7
+    3300374: Glass 8
+    3300376: Glass 9
+    3300378: Head
+    3300380: Head 1
+    3300382: Head 10
+    3300384: Head 11
+    3300386: Head 12
+    3300388: Head 13
+    3300390: Head 14
+    3300392: Head 15
+    3300394: Head 16
+    3300396: Head 17
+    3300398: Head 18
+    3300400: Head 19
+    3300402: Head 2
+    3300404: Head 20
+    3300406: Head 21
+    3300408: Head 22
+    3300410: Head 23
+    3300412: Head 3
+    3300414: Head 4
+    3300416: Head 5
+    3300418: Head 6
+    3300420: Head 7
+    3300422: Head 8
+    3300424: Head 9
+    3300426: Level0_E1_Ceiling
+    3300428: Level0_E1_Floor
+    3300430: Level0_E1_Wall0
+    3300432: Level0_E1_Wall1
+    3300434: Level0_E1_Wall2
+    3300436: Level0_E1_Wall3
+    3300438: Level0_E3_Ceiling
+    3300440: Level0_E3_Floor
+    3300442: 'Level0_E3_L-ShapeStairs(E3->Room #1)'
+    3300444: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p0'
+    3300446: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p1'
+    3300448: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p2'
+    3300450: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p3'
+    3300452: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p4'
+    3300454: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p5'
+    3300456: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p6'
+    3300458: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p7'
+    3300460: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p8'
+    3300462: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p9'
+    3300464: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_rail'
+    3300466: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p0'
+    3300468: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p1'
+    3300470: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p2'
+    3300472: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p3'
+    3300474: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p4'
+    3300476: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p5'
+    3300478: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p6'
+    3300480: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p7'
+    3300482: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p8'
+    3300484: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_rail'
+    3300486: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p0'
+    3300488: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p1'
+    3300490: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p10'
+    3300492: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p11'
+    3300494: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p12'
+    3300496: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p13'
+    3300498: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p14'
+    3300500: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p15'
+    3300502: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p16'
+    3300504: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p17'
+    3300506: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p2'
+    3300508: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p3'
+    3300510: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p4'
+    3300512: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p5'
+    3300514: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p6'
+    3300516: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p7'
+    3300518: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p8'
+    3300520: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p9'
+    3300522: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_rail'
+    3300524: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p0'
+    3300526: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p1'
+    3300528: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p2'
+    3300530: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_rail'
+    3300532: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p0'
+    3300534: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p1'
+    3300536: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p2'
+    3300538: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p3'
+    3300540: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p4'
+    3300542: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p5'
+    3300544: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p6'
+    3300546: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p7'
+    3300548: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_rail'
+    3300550: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p0'
+    3300552: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p1'
+    3300554: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p2'
+    3300556: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p3'
+    3300558: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p4'
+    3300560: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p5'
+    3300562: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p6'
+    3300564: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p7'
+    3300566: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_rail'
+    3300568: Level0_E3_StraightStairs(E3->E2)
+    3300570: Level0_E3_StraightStairs(E3->E2)_ban_lf_p0
+    3300572: Level0_E3_StraightStairs(E3->E2)_ban_lf_p1
+    3300574: Level0_E3_StraightStairs(E3->E2)_ban_lf_p10
+    3300576: Level0_E3_StraightStairs(E3->E2)_ban_lf_p11
+    3300578: Level0_E3_StraightStairs(E3->E2)_ban_lf_p12
+    3300580: Level0_E3_StraightStairs(E3->E2)_ban_lf_p13
+    3300582: Level0_E3_StraightStairs(E3->E2)_ban_lf_p14
+    3300584: Level0_E3_StraightStairs(E3->E2)_ban_lf_p15
+    3300586: Level0_E3_StraightStairs(E3->E2)_ban_lf_p16
+    3300588: Level0_E3_StraightStairs(E3->E2)_ban_lf_p17
+    3300590: Level0_E3_StraightStairs(E3->E2)_ban_lf_p18
+    3300592: Level0_E3_StraightStairs(E3->E2)_ban_lf_p2
+    3300594: Level0_E3_StraightStairs(E3->E2)_ban_lf_p3
+    3300596: Level0_E3_StraightStairs(E3->E2)_ban_lf_p4
+    3300598: Level0_E3_StraightStairs(E3->E2)_ban_lf_p5
+    3300600: Level0_E3_StraightStairs(E3->E2)_ban_lf_p6
+    3300602: Level0_E3_StraightStairs(E3->E2)_ban_lf_p7
+    3300604: Level0_E3_StraightStairs(E3->E2)_ban_lf_p8
+    3300606: Level0_E3_StraightStairs(E3->E2)_ban_lf_p9
+    3300608: Level0_E3_StraightStairs(E3->E2)_ban_lf_rail
+    3300610: Level0_E3_StraightStairs(E3->E2)_ban_rt_p0
+    3300612: Level0_E3_StraightStairs(E3->E2)_ban_rt_p1
+    3300614: Level0_E3_StraightStairs(E3->E2)_ban_rt_p10
+    3300616: Level0_E3_StraightStairs(E3->E2)_ban_rt_p11
+    3300618: Level0_E3_StraightStairs(E3->E2)_ban_rt_p12
+    3300620: Level0_E3_StraightStairs(E3->E2)_ban_rt_p13
+    3300622: Level0_E3_StraightStairs(E3->E2)_ban_rt_p14
+    3300624: Level0_E3_StraightStairs(E3->E2)_ban_rt_p15
+    3300626: Level0_E3_StraightStairs(E3->E2)_ban_rt_p16
+    3300628: Level0_E3_StraightStairs(E3->E2)_ban_rt_p17
+    3300630: Level0_E3_StraightStairs(E3->E2)_ban_rt_p18
+    3300632: Level0_E3_StraightStairs(E3->E2)_ban_rt_p2
+    3300634: Level0_E3_StraightStairs(E3->E2)_ban_rt_p3
+    3300636: Level0_E3_StraightStairs(E3->E2)_ban_rt_p4
+    3300638: Level0_E3_StraightStairs(E3->E2)_ban_rt_p5
+    3300640: Level0_E3_StraightStairs(E3->E2)_ban_rt_p6
+    3300642: Level0_E3_StraightStairs(E3->E2)_ban_rt_p7
+    3300644: Level0_E3_StraightStairs(E3->E2)_ban_rt_p8
+    3300646: Level0_E3_StraightStairs(E3->E2)_ban_rt_p9
+    3300648: Level0_E3_StraightStairs(E3->E2)_ban_rt_rail
+    3300650: Level0_E3_Wall0
+    3300652: Level0_E3_Wall1
+    3300654: Level0_E3_Wall2
+    3300656: Level0_E3_Wall3
+    3300658: Level0_E4_Ceiling
+    3300660: Level0_E4_Floor
+    3300662: Level0_E4_Wall0
+    3300664: Level0_E4_Wall1
+    3300666: Level0_E4_Wall2
+    3300668: Level0_E4_Wall3
+    3300670: Level0_E6_Ceiling
+    3300672: Level0_E6_Floor
+    3300674: Level0_E6_Wall0
+    3300676: Level0_E6_Wall1
+    3300678: Level0_E6_Wall2
+    3300680: Level0_E6_Wall3
+    3300682: Level0_E7_Ceiling
+    3300684: Level0_E7_Floor
+    3300686: Level0_E7_Wall0
+    3300688: Level0_E7_Wall1
+    3300690: Level0_E7_Wall2
+    3300692: Level0_E7_Wall3
+    3300694: 'Level0_Room #0_Ceiling'
+    3300696: 'Level0_Room #0_Floor'
+    3300698: 'Level0_Room #0_Wall0'
+    3300700: 'Level0_Room #0_Wall1'
+    3300702: 'Level0_Room #0_Wall2'
+    3300704: 'Level0_Room #0_Wall3'
+    3300706: Level1_E2_Ceiling
+    3300708: Level1_E2_Floor
+    3300710: Level1_E2_StraightStairs(E2->E3)
+    3300712: Level1_E2_StraightStairs(E2->E3)_ban_hz_p0
+    3300714: Level1_E2_StraightStairs(E2->E3)_ban_hz_p1
+    3300716: Level1_E2_StraightStairs(E2->E3)_ban_hz_p2
+    3300718: Level1_E2_StraightStairs(E2->E3)_ban_hz_p3
+    3300720: Level1_E2_StraightStairs(E2->E3)_ban_hz_p4
+    3300722: Level1_E2_StraightStairs(E2->E3)_ban_hz_p5
+    3300724: Level1_E2_StraightStairs(E2->E3)_ban_hz_p6
+    3300726: Level1_E2_StraightStairs(E2->E3)_ban_hz_p7
+    3300728: Level1_E2_StraightStairs(E2->E3)_ban_hz_rail
+    3300730: Level1_E2_StraightStairs(E2->E3)_ban_lf_p0
+    3300732: Level1_E2_StraightStairs(E2->E3)_ban_lf_p1
+    3300734: Level1_E2_StraightStairs(E2->E3)_ban_lf_p10
+    3300736: Level1_E2_StraightStairs(E2->E3)_ban_lf_p11
+    3300738: Level1_E2_StraightStairs(E2->E3)_ban_lf_p12
+    3300740: Level1_E2_StraightStairs(E2->E3)_ban_lf_p13
+    3300742: Level1_E2_StraightStairs(E2->E3)_ban_lf_p14
+    3300744: Level1_E2_StraightStairs(E2->E3)_ban_lf_p15
+    3300746: Level1_E2_StraightStairs(E2->E3)_ban_lf_p16
+    3300748: Level1_E2_StraightStairs(E2->E3)_ban_lf_p17
+    3300750: Level1_E2_StraightStairs(E2->E3)_ban_lf_p18
+    3300752: Level1_E2_StraightStairs(E2->E3)_ban_lf_p19
+    3300754: Level1_E2_StraightStairs(E2->E3)_ban_lf_p2
+    3300756: Level1_E2_StraightStairs(E2->E3)_ban_lf_p3
+    3300758: Level1_E2_StraightStairs(E2->E3)_ban_lf_p4
+    3300760: Level1_E2_StraightStairs(E2->E3)_ban_lf_p5
+    3300762: Level1_E2_StraightStairs(E2->E3)_ban_lf_p6
+    3300764: Level1_E2_StraightStairs(E2->E3)_ban_lf_p7
+    3300766: Level1_E2_StraightStairs(E2->E3)_ban_lf_p8
+    3300768: Level1_E2_StraightStairs(E2->E3)_ban_lf_p9
+    3300770: Level1_E2_StraightStairs(E2->E3)_ban_lf_rail
+    3300772: Level1_E2_StraightStairs(E2->E3)_ban_rt_p0
+    3300774: Level1_E2_StraightStairs(E2->E3)_ban_rt_p1
+    3300776: Level1_E2_StraightStairs(E2->E3)_ban_rt_p10
+    3300778: Level1_E2_StraightStairs(E2->E3)_ban_rt_p11
+    3300780: Level1_E2_StraightStairs(E2->E3)_ban_rt_p12
+    3300782: Level1_E2_StraightStairs(E2->E3)_ban_rt_p13
+    3300784: Level1_E2_StraightStairs(E2->E3)_ban_rt_p14
+    3300786: Level1_E2_StraightStairs(E2->E3)_ban_rt_p15
+    3300788: Level1_E2_StraightStairs(E2->E3)_ban_rt_p16
+    3300790: Level1_E2_StraightStairs(E2->E3)_ban_rt_p17
+    3300792: Level1_E2_StraightStairs(E2->E3)_ban_rt_p18
+    3300794: Level1_E2_StraightStairs(E2->E3)_ban_rt_p19
+    3300796: Level1_E2_StraightStairs(E2->E3)_ban_rt_p2
+    3300798: Level1_E2_StraightStairs(E2->E3)_ban_rt_p3
+    3300800: Level1_E2_StraightStairs(E2->E3)_ban_rt_p4
+    3300802: Level1_E2_StraightStairs(E2->E3)_ban_rt_p5
+    3300804: Level1_E2_StraightStairs(E2->E3)_ban_rt_p6
+    3300806: Level1_E2_StraightStairs(E2->E3)_ban_rt_p7
+    3300808: Level1_E2_StraightStairs(E2->E3)_ban_rt_p8
+    3300810: Level1_E2_StraightStairs(E2->E3)_ban_rt_p9
+    3300812: Level1_E2_StraightStairs(E2->E3)_ban_rt_rail
+    3300814: Level1_E2_Wall0
+    3300816: Level1_E2_Wall1
+    3300818: Level1_E2_Wall2
+    3300820: Level1_E2_Wall3
+    3300822: Level1_E5_Ceiling
+    3300824: Level1_E5_Floor
+    3300826: Level1_E5_Wall0
+    3300828: Level1_E5_Wall1
+    3300830: Level1_E5_Wall2
+    3300832: Level1_E5_Wall3
+    3300834: 'Level1_Room #1_Ceiling'
+    3300836: 'Level1_Room #1_Floor'
+    3300838: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)'
+    3300840: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p0'
+    3300842: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p1'
+    3300844: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p2'
+    3300846: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p3'
+    3300848: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p4'
+    3300850: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p5'
+    3300852: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p6'
+    3300854: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p7'
+    3300856: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p8'
+    3300858: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_rail'
+    3300860: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p0'
+    3300862: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p1'
+    3300864: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p10'
+    3300866: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p11'
+    3300868: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p12'
+    3300870: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p13'
+    3300872: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p14'
+    3300874: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p15'
+    3300876: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p16'
+    3300878: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p17'
+    3300880: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p18'
+    3300882: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p19'
+    3300884: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p2'
+    3300886: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p20'
+    3300888: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p21'
+    3300890: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p22'
+    3300892: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p23'
+    3300894: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p24'
+    3300896: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p25'
+    3300898: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p26'
+    3300900: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p27'
+    3300902: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p28'
+    3300904: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p29'
+    3300906: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p3'
+    3300908: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p30'
+    3300910: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p31'
+    3300912: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p32'
+    3300914: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p33'
+    3300916: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p34'
+    3300918: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p35'
+    3300920: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p36'
+    3300922: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p37'
+    3300924: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p38'
+    3300926: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p39'
+    3300928: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p4'
+    3300930: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p5'
+    3300932: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p6'
+    3300934: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p7'
+    3300936: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p8'
+    3300938: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p9'
+    3300940: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_rail'
+    3300942: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p0'
+    3300944: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p1'
+    3300946: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p10'
+    3300948: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p11'
+    3300950: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p12'
+    3300952: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p13'
+    3300954: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p14'
+    3300956: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p15'
+    3300958: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p16'
+    3300960: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p17'
+    3300962: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p18'
+    3300964: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p19'
+    3300966: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p2'
+    3300968: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p20'
+    3300970: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p21'
+    3300972: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p3'
+    3300974: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p4'
+    3300976: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p5'
+    3300978: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p6'
+    3300980: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p7'
+    3300982: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p8'
+    3300984: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p9'
+    3300986: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_rail'
+    3300988: 'Level1_Room #1_Wall0'
+    3300990: 'Level1_Room #1_Wall1'
+    3300992: 'Level1_Room #1_Wall2'
+    3300994: 'Level1_Room #1_Wall3'
+    3300996: 'OID000000000000DA3BD46E_Roof #0_P0'
+    3300998: 'OID000000000000DA3BD46E_Roof #0_P1'
+    3301000: 'OID000000000000DA3BD46E_Roof #1_P0'
+    3301002: 'OID000000000000DA3BD46E_Roof #1_P1'
+    3301004: 'OID000000000000DA3BD46E_Roof #2_P0'
+    3301006: 'OID000000000000DA3BD46E_Roof #3_P0'
+    4300000: 'Level0_Room #0_Wall0'
+    4300002: 'Level0_Room #0_Wall3'
+    4300004: 'Level0_Room #0_Floor'
+    4300006: 'Level0_Room #0_Ceiling'
+    4300008: 'Level0_Room #0_Wall2'
+    4300010: DoorPane
+    4300012: Frame
+    4300014: 'Level0_Room #0_Wall1'
+    4300016: Level0_E4_Wall2
+    4300018: Level0_E4_Floor
+    4300020: Level0_E4_Ceiling
+    4300022: Level0_E4_Wall1
+    4300024: Body
+    4300026: Glass
+    4300028: Level0_E4_Wall0
+    4300030: Level0_E4_Wall3
+    4300032: Level0_E7_Wall0
+    4300034: Level0_E7_Wall2
+    4300036: Level0_E7_Floor
+    4300038: Level0_E7_Ceiling
+    4300040: Level0_E7_Wall1
+    4300042: Body
+    4300044: Glass
+    4300046: Level0_E7_Wall3
+    4300048: DoorPane
+    4300050: Frame
+    4300052: Level0_E6_Floor
+    4300054: Level0_E6_Ceiling
+    4300056: Level0_E6_Wall3
+    4300058: Body
+    4300060: Glass
+    4300062: Level0_E6_Wall1
+    4300064: Body
+    4300066: Glass
+    4300068: Level0_E6_Wall0
+    4300070: Body
+    4300072: Glass
+    4300074: Level0_E6_Wall2
+    4300076: Level0_E1_Wall1
+    4300078: Level0_E1_Floor
+    4300080: Level0_E1_Ceiling
+    4300082: Level0_E1_Wall3
+    4300084: Body
+    4300086: Glass
+    4300088: Level0_E1_Wall0
+    4300090: Body
+    4300092: Glass
+    4300094: Level0_E1_Wall2
+    4300096: Level0_E3_Wall0
+    4300098: Level0_E3_Floor
+    4300100: 'Level0_E3_L-ShapeStairs(E3->Room #1)'
+    4300102: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p0'
+    4300104: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p1'
+    4300106: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p2'
+    4300108: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p3'
+    4300110: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p4'
+    4300112: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p5'
+    4300114: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p6'
+    4300116: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p7'
+    4300118: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p8'
+    4300120: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_p9'
+    4300122: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_lf_rail'
+    4300124: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p0'
+    4300126: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p1'
+    4300128: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p2'
+    4300130: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p3'
+    4300132: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p4'
+    4300134: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p5'
+    4300136: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p6'
+    4300138: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p7'
+    4300140: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p8'
+    4300142: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p9'
+    4300144: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p10'
+    4300146: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p11'
+    4300148: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p12'
+    4300150: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p13'
+    4300152: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p14'
+    4300154: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p15'
+    4300156: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p16'
+    4300158: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_p17'
+    4300160: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_lf_rail'
+    4300162: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p0'
+    4300164: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p1'
+    4300166: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p2'
+    4300168: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p3'
+    4300170: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p4'
+    4300172: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p5'
+    4300174: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p6'
+    4300176: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_p7'
+    4300178: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_lf_rail'
+    4300180: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p0'
+    4300182: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p1'
+    4300184: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p2'
+    4300186: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p3'
+    4300188: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p4'
+    4300190: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p5'
+    4300192: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p6'
+    4300194: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p7'
+    4300196: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_p8'
+    4300198: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_l_rt_rail'
+    4300200: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p0'
+    4300202: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p1'
+    4300204: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_p2'
+    4300206: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_m_rt_rail'
+    4300208: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p0'
+    4300210: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p1'
+    4300212: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p2'
+    4300214: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p3'
+    4300216: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p4'
+    4300218: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p5'
+    4300220: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p6'
+    4300222: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_p7'
+    4300224: 'Level0_E3_L-ShapeStairs(E3->Room #1)_ban_u_rt_rail'
+    4300226: Level0_E3_Wall1
+    4300228: DoorPane
+    4300230: Frame
+    4300232: DoorPane
+    4300234: Frame
+    4300236: Level0_E3_Wall2
+    4300238: Body
+    4300240: Glass
+    4300242: Level0_E3_Wall3
+    4300244: Body
+    4300246: Glass
+    4300248: Level0_E3_StraightStairs(E3->E2)
+    4300250: Level0_E3_StraightStairs(E3->E2)_ban_lf_p0
+    4300252: Level0_E3_StraightStairs(E3->E2)_ban_lf_p1
+    4300254: Level0_E3_StraightStairs(E3->E2)_ban_lf_p2
+    4300256: Level0_E3_StraightStairs(E3->E2)_ban_lf_p3
+    4300258: Level0_E3_StraightStairs(E3->E2)_ban_lf_p4
+    4300260: Level0_E3_StraightStairs(E3->E2)_ban_lf_p5
+    4300262: Level0_E3_StraightStairs(E3->E2)_ban_lf_p6
+    4300264: Level0_E3_StraightStairs(E3->E2)_ban_lf_p7
+    4300266: Level0_E3_StraightStairs(E3->E2)_ban_lf_p8
+    4300268: Level0_E3_StraightStairs(E3->E2)_ban_lf_p9
+    4300270: Level0_E3_StraightStairs(E3->E2)_ban_lf_p10
+    4300272: Level0_E3_StraightStairs(E3->E2)_ban_lf_p11
+    4300274: Level0_E3_StraightStairs(E3->E2)_ban_lf_p12
+    4300276: Level0_E3_StraightStairs(E3->E2)_ban_lf_p13
+    4300278: Level0_E3_StraightStairs(E3->E2)_ban_lf_p14
+    4300280: Level0_E3_StraightStairs(E3->E2)_ban_lf_p15
+    4300282: Level0_E3_StraightStairs(E3->E2)_ban_lf_p16
+    4300284: Level0_E3_StraightStairs(E3->E2)_ban_lf_p17
+    4300286: Level0_E3_StraightStairs(E3->E2)_ban_lf_p18
+    4300288: Level0_E3_StraightStairs(E3->E2)_ban_lf_rail
+    4300290: Level0_E3_StraightStairs(E3->E2)_ban_rt_p0
+    4300292: Level0_E3_StraightStairs(E3->E2)_ban_rt_p1
+    4300294: Level0_E3_StraightStairs(E3->E2)_ban_rt_p2
+    4300296: Level0_E3_StraightStairs(E3->E2)_ban_rt_p3
+    4300298: Level0_E3_StraightStairs(E3->E2)_ban_rt_p4
+    4300300: Level0_E3_StraightStairs(E3->E2)_ban_rt_p5
+    4300302: Level0_E3_StraightStairs(E3->E2)_ban_rt_p6
+    4300304: Level0_E3_StraightStairs(E3->E2)_ban_rt_p7
+    4300306: Level0_E3_StraightStairs(E3->E2)_ban_rt_p8
+    4300308: Level0_E3_StraightStairs(E3->E2)_ban_rt_p9
+    4300310: Level0_E3_StraightStairs(E3->E2)_ban_rt_p10
+    4300312: Level0_E3_StraightStairs(E3->E2)_ban_rt_p11
+    4300314: Level0_E3_StraightStairs(E3->E2)_ban_rt_p12
+    4300316: Level0_E3_StraightStairs(E3->E2)_ban_rt_p13
+    4300318: Level0_E3_StraightStairs(E3->E2)_ban_rt_p14
+    4300320: Level0_E3_StraightStairs(E3->E2)_ban_rt_p15
+    4300322: Level0_E3_StraightStairs(E3->E2)_ban_rt_p16
+    4300324: Level0_E3_StraightStairs(E3->E2)_ban_rt_p17
+    4300326: Level0_E3_StraightStairs(E3->E2)_ban_rt_p18
+    4300328: Level0_E3_StraightStairs(E3->E2)_ban_rt_rail
+    4300330: Level0_E3_Ceiling
+    4300332: 'Level1_Room #1_Wall1'
+    4300334: 'Level1_Room #1_Wall2'
+    4300336: 'Level1_Room #1_Ceiling'
+    4300338: 'Level1_Room #1_Wall0'
+    4300340: DoorPane
+    4300342: Frame
+    4300344: 'Level1_Room #1_Wall3'
+    4300346: DoorPane
+    4300348: Frame
+    4300350: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)'
+    4300352: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p0'
+    4300354: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p1'
+    4300356: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p2'
+    4300358: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p3'
+    4300360: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p4'
+    4300362: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p5'
+    4300364: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p6'
+    4300366: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p7'
+    4300368: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p8'
+    4300370: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p9'
+    4300372: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p10'
+    4300374: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p11'
+    4300376: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p12'
+    4300378: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p13'
+    4300380: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p14'
+    4300382: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p15'
+    4300384: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p16'
+    4300386: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p17'
+    4300388: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p18'
+    4300390: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p19'
+    4300392: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p20'
+    4300394: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p21'
+    4300396: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p22'
+    4300398: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p23'
+    4300400: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p24'
+    4300402: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p25'
+    4300404: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p26'
+    4300406: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p27'
+    4300408: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p28'
+    4300410: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p29'
+    4300412: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p30'
+    4300414: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p31'
+    4300416: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p32'
+    4300418: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p33'
+    4300420: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p34'
+    4300422: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p35'
+    4300424: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p36'
+    4300426: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p37'
+    4300428: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p38'
+    4300430: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_p39'
+    4300432: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_lrail_rail'
+    4300434: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p0'
+    4300436: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p1'
+    4300438: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p2'
+    4300440: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p3'
+    4300442: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p4'
+    4300444: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p5'
+    4300446: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p6'
+    4300448: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p7'
+    4300450: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p8'
+    4300452: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p9'
+    4300454: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p10'
+    4300456: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p11'
+    4300458: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p12'
+    4300460: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p13'
+    4300462: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p14'
+    4300464: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p15'
+    4300466: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p16'
+    4300468: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p17'
+    4300470: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p18'
+    4300472: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p19'
+    4300474: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p20'
+    4300476: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_p21'
+    4300478: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_rrail_rail'
+    4300480: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p0'
+    4300482: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p1'
+    4300484: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p2'
+    4300486: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p3'
+    4300488: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p4'
+    4300490: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p5'
+    4300492: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p6'
+    4300494: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p7'
+    4300496: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_p8'
+    4300498: 'Level1_Room #1_L-ShapeStairs(Room #1->E3)_banister_hrail_rail'
+    4300500: 'Level1_Room #1_Floor'
+    4300502: Level1_E5_Wall0
+    4300504: Level1_E5_Floor
+    4300506: Level1_E5_Ceiling
+    4300508: Level1_E5_Wall2
+    4300510: DoorPane
+    4300512: Frame
+    4300514: Level1_E5_Wall3
+    4300516: Level1_E5_Wall1
+    4300518: Body
+    4300520: Glass
+    4300522: Level1_E2_Ceiling
+    4300524: Level1_E2_Wall3
+    4300526: Body
+    4300528: Glass
+    4300530: Level1_E2_Wall0
+    4300532: Body
+    4300534: Glass
+    4300536: Level1_E2_Wall2
+    4300538: Body
+    4300540: Glass
+    4300542: Level1_E2_StraightStairs(E2->E3)
+    4300544: Level1_E2_StraightStairs(E2->E3)_ban_lf_p0
+    4300546: Level1_E2_StraightStairs(E2->E3)_ban_lf_p1
+    4300548: Level1_E2_StraightStairs(E2->E3)_ban_lf_p2
+    4300550: Level1_E2_StraightStairs(E2->E3)_ban_lf_p3
+    4300552: Level1_E2_StraightStairs(E2->E3)_ban_lf_p4
+    4300554: Level1_E2_StraightStairs(E2->E3)_ban_lf_p5
+    4300556: Level1_E2_StraightStairs(E2->E3)_ban_lf_p6
+    4300558: Level1_E2_StraightStairs(E2->E3)_ban_lf_p7
+    4300560: Level1_E2_StraightStairs(E2->E3)_ban_lf_p8
+    4300562: Level1_E2_StraightStairs(E2->E3)_ban_lf_p9
+    4300564: Level1_E2_StraightStairs(E2->E3)_ban_lf_p10
+    4300566: Level1_E2_StraightStairs(E2->E3)_ban_lf_p11
+    4300568: Level1_E2_StraightStairs(E2->E3)_ban_lf_p12
+    4300570: Level1_E2_StraightStairs(E2->E3)_ban_lf_p13
+    4300572: Level1_E2_StraightStairs(E2->E3)_ban_lf_p14
+    4300574: Level1_E2_StraightStairs(E2->E3)_ban_lf_p15
+    4300576: Level1_E2_StraightStairs(E2->E3)_ban_lf_p16
+    4300578: Level1_E2_StraightStairs(E2->E3)_ban_lf_p17
+    4300580: Level1_E2_StraightStairs(E2->E3)_ban_lf_p18
+    4300582: Level1_E2_StraightStairs(E2->E3)_ban_lf_p19
+    4300584: Level1_E2_StraightStairs(E2->E3)_ban_lf_rail
+    4300586: Level1_E2_StraightStairs(E2->E3)_ban_rt_p0
+    4300588: Level1_E2_StraightStairs(E2->E3)_ban_rt_p1
+    4300590: Level1_E2_StraightStairs(E2->E3)_ban_rt_p2
+    4300592: Level1_E2_StraightStairs(E2->E3)_ban_rt_p3
+    4300594: Level1_E2_StraightStairs(E2->E3)_ban_rt_p4
+    4300596: Level1_E2_StraightStairs(E2->E3)_ban_rt_p5
+    4300598: Level1_E2_StraightStairs(E2->E3)_ban_rt_p6
+    4300600: Level1_E2_StraightStairs(E2->E3)_ban_rt_p7
+    4300602: Level1_E2_StraightStairs(E2->E3)_ban_rt_p8
+    4300604: Level1_E2_StraightStairs(E2->E3)_ban_rt_p9
+    4300606: Level1_E2_StraightStairs(E2->E3)_ban_rt_p10
+    4300608: Level1_E2_StraightStairs(E2->E3)_ban_rt_p11
+    4300610: Level1_E2_StraightStairs(E2->E3)_ban_rt_p12
+    4300612: Level1_E2_StraightStairs(E2->E3)_ban_rt_p13
+    4300614: Level1_E2_StraightStairs(E2->E3)_ban_rt_p14
+    4300616: Level1_E2_StraightStairs(E2->E3)_ban_rt_p15
+    4300618: Level1_E2_StraightStairs(E2->E3)_ban_rt_p16
+    4300620: Level1_E2_StraightStairs(E2->E3)_ban_rt_p17
+    4300622: Level1_E2_StraightStairs(E2->E3)_ban_rt_p18
+    4300624: Level1_E2_StraightStairs(E2->E3)_ban_rt_p19
+    4300626: Level1_E2_StraightStairs(E2->E3)_ban_rt_rail
+    4300628: Level1_E2_StraightStairs(E2->E3)_ban_hz_p0
+    4300630: Level1_E2_StraightStairs(E2->E3)_ban_hz_p1
+    4300632: Level1_E2_StraightStairs(E2->E3)_ban_hz_p2
+    4300634: Level1_E2_StraightStairs(E2->E3)_ban_hz_p3
+    4300636: Level1_E2_StraightStairs(E2->E3)_ban_hz_p4
+    4300638: Level1_E2_StraightStairs(E2->E3)_ban_hz_p5
+    4300640: Level1_E2_StraightStairs(E2->E3)_ban_hz_p6
+    4300642: Level1_E2_StraightStairs(E2->E3)_ban_hz_p7
+    4300644: Level1_E2_StraightStairs(E2->E3)_ban_hz_rail
+    4300646: Level1_E2_Floor
+    4300648: Level1_E2_Wall1
+    4300650: DoorPane
+    4300652: Frame
+    4300654: External_OUT_Wall0
+    4300656: External_OUT_Wall1
+    4300658: External_OUT_Wall2
+    4300660: External_OUT_Wall3
+    4300662: External_OUT_Floor
+    4300664: 'OID000000000000DA3BD46E_Roof #0_P0'
+    4300666: 'OID000000000000DA3BD46E_Roof #0_P1'
+    4300668: Body
+    4300670: Body
+    4300672: Body
+    4300674: Body
+    4300676: Body
+    4300678: Body
+    4300680: Body
+    4300682: Body
+    4300684: Body
+    4300686: Head
+    4300688: Body
+    4300690: Body
+    4300692: Body
+    4300694: Body
+    4300696: Body
+    4300698: Body
+    4300700: Body
+    4300702: Body
+    4300704: Body
+    4300706: Head
+    4300708: Body
+    4300710: Head
+    4300712: Body
+    4300714: Head
+    4300716: Body
+    4300718: Head
+    4300720: Body
+    4300722: Body
+    4300724: Body
+    4300726: Head
+    4300728: Body
+    4300730: Body
+    4300732: Body
+    4300734: Body
+    4300736: Body
+    4300738: Body
+    4300740: Head
+    4300742: Body
+    4300744: Head
+    4300746: Body
+    4300748: Body
+    4300750: Body
+    4300752: 'OID000000000000DA3BD46E_Roof #1_P0'
+    4300754: 'OID000000000000DA3BD46E_Roof #1_P1'
+    4300756: Body
+    4300758: Body
+    4300760: Body
+    4300762: Body
+    4300764: Body
+    4300766: Body
+    4300768: Body
+    4300770: Body
+    4300772: Body
+    4300774: Body
+    4300776: Body
+    4300778: Body
+    4300780: Body
+    4300782: Body
+    4300784: Body
+    4300786: Body
+    4300788: Body
+    4300790: Body
+    4300792: Body
+    4300794: Body
+    4300796: Body
+    4300798: Body
+    4300800: Head
+    4300802: Body
+    4300804: Body
+    4300806: Head
+    4300808: Body
+    4300810: Head
+    4300812: Body
+    4300814: Head
+    4300816: Body
+    4300818: Head
+    4300820: Body
+    4300822: Body
+    4300824: Body
+    4300826: Body
+    4300828: Body
+    4300830: Head
+    4300832: Body
+    4300834: Body
+    4300836: Body
+    4300838: Head
+    4300840: Body
+    4300842: Body
+    4300844: Body
+    4300846: Body
+    4300848: Head
+    4300850: Body
+    4300852: Body
+    4300854: Body
+    4300856: Body
+    4300858: Body
+    4300860: Body
+    4300862: Body
+    4300864: Body
+    4300866: Body
+    4300868: 'OID000000000000DA3BD46E_Roof #2_P0'
+    4300870: Body
+    4300872: Body
+    4300874: Head
+    4300876: Body
+    4300878: Body
+    4300880: Head
+    4300882: Body
+    4300884: Body
+    4300886: Body
+    4300888: Body
+    4300890: Body
+    4300892: Body
+    4300894: Body
+    4300896: Body
+    4300898: Body
+    4300900: Body
+    4300902: Body
+    4300904: Body
+    4300906: Head
+    4300908: Body
+    4300910: Head
+    4300912: Body
+    4300914: Body
+    4300916: Body
+    4300918: 'OID000000000000DA3BD46E_Roof #3_P0'
+    4300920: Head
+    4300922: Body
+    4300924: Body
+    4300926: Body
+    4300928: Body
+    4300930: Body
+    4300932: Body
+    4300934: Body
+    4300936: Body
+    4300938: Body
+    4300940: Body
+    4300942: Body
+    4300944: Body
+    4300946: Body
+    4300948: Body
+    4300950: Body
+    4300952: Head
+    4300954: Body
+    4300956: Head
+    4300958: Body
+    4300960: Head
+    4300962: Body
+    4300964: Body
+    4300966: Body
+    4300968: Body
+    4300970: Body
+    4300972: Body
+    4300974: Body
+    4300976: Body
+    4300978: Body
+    4300980: Body
+    4300982: Body
+    4300984: Body
+    4300986: Body
+    4300988: Body
+    4300990: Body
+    4300992: Body
+    4300994: Body
+    4300996: Body
+    4300998: Body
+    4301000: Body
+    4301002: Body
+    4301004: Body
+    4301006: Body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
