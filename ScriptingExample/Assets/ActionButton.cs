@@ -9,7 +9,7 @@ public class ActionButton : MonoBehaviour {
 	public void GoToScene_1()
     {
         Debug.Log("Goto 1");
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(3);
     }
 
     public void GetText()
