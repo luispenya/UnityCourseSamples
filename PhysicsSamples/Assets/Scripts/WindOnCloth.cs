@@ -12,7 +12,7 @@ public class WindOnCloth : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void FixedUpdate () {
         Debug.Log("TR"+wZ.transform.forward);
 
             Vector3 str = -wZ.transform.forward * wZ.windMain*20;
