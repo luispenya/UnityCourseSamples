@@ -12,6 +12,20 @@ public class MovementController : MonoBehaviour {
         NavigationAgent = GetComponent<NavMeshAgent>();
 	}
 	
+    public float DistanceToTarget(Vector3 tr)
+    {
+        float dist = 0.0f;
+        NavMeshPath path = new NavMeshPath();
+        NavMesh.CalculatePath(transform.position, tr, NavMesh.AllAreas, path);
+        for (int i = 0; i < path.corners.Length - 1; i++)
+        {
+            Debug.DrawLine(path.corners[i], path.corners[i + 1], Color.red,2f);
+            dist+=Vector3.Distance(path.corners[i], path.corners[i + 1]);
+
+        }
+        return dist;
+    }
+
 	// Update is called once per frame
 	void Update () {
 	    if (PointClick)
@@ -25,6 +39,7 @@ public class MovementController : MonoBehaviour {
                 if (hit.collider.gameObject.CompareTag("Ground"))
                 {
                     NavigationAgent.destination = hit.point;
+                        Debug.Log("Distance: " + DistanceToTarget(hit.point));
                 }
             }
         }
