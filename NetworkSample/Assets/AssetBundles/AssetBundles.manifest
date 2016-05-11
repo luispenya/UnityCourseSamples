@@ -4,3 +4,7 @@ AssetBundleManifest:
     Info_0:
       Name: netcomponents
       Dependencies: {}
+    Info_1:
+      Name: escenario
+      Dependencies:
+        Dependency_0: netcomponents

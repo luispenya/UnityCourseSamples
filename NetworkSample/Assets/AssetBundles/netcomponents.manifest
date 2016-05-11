@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2596592819
+CRC: 3127047702
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 34b2a6bfd797463c21663d6ddadeb566
+    Hash: 7d1c8bdda97b61449996660f6262e5c2
   TypeTreeHash:
     serializedVersion: 2
     Hash: eb2757eac30f0cc0abd90c4f09c2db98
@@ -15,4 +15,5 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Materials/Floor.mat
+- Assets/Materials/NuevoMaterial.mat
 Dependencies: []
